@@ -1,0 +1,1154 @@
+[
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a8e"
+      },
+      "item": 1,
+      "nombres": "Edna Geraldin",
+      "apellidos": "ALVAREZ CASTILLO",
+      "cc": "1013640468",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "elemento@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a4c"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a8f"
+      },
+      "item": 2,
+      "nombres": "Elvis Alexander",
+      "apellidos": "GUERRERO PEDROZO",
+      "cc": "1034314349",
+      "cargo": "JEFE \u00c1REA REPORTES",
+      "correo": "reportes.bogota@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a4d"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a90"
+      },
+      "item": 3,
+      "nombres": "Ingrid Dahiana",
+      "apellidos": "POLANCO GONZALEZ",
+      "cc": "1144075442",
+      "cargo": "JEFE DEPARTAMENTO",
+      "correo": "juridico.bogota@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a4e"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a91"
+      },
+      "item": 4,
+      "nombres": "Juan Pablo",
+      "apellidos": "MARTINEZ SENEGAL",
+      "cc": "1045666828",
+      "cargo": "JEFE DEPARTAMENTO",
+      "correo": "juridico.barranquilla@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a4f"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a92"
+      },
+      "item": 5,
+      "nombres": "Lady Liliana",
+      "apellidos": "ORTEGA MURILLO",
+      "cc": "1130652860",
+      "cargo": "JEFE DEPARTAMENTO",
+      "correo": "juridico.cali@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a50"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a93"
+      },
+      "item": 6,
+      "nombres": "Farley Eladis",
+      "apellidos": "YANEZ LOPEZ",
+      "cc": "31324181",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "calibc@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a51"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a94"
+      },
+      "item": 7,
+      "nombres": "Walter",
+      "apellidos": "CRUZ BRICE\u00d1O",
+      "cc": "16586096",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "cali@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a52"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a95"
+      },
+      "item": 8,
+      "nombres": "Jesus Hermes",
+      "apellidos": "BOLA\u00d1OS CRUZ",
+      "cc": "16645889",
+      "cargo": "DIRECTOR GENERAL",
+      "correo": "director@coopserp.com",
+      "rol": "Admin",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a53"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a96"
+      },
+      "item": 9,
+      "nombres": "Giovanna",
+      "apellidos": "HENAO RIVAS",
+      "cc": "66952815",
+      "cargo": "JEFE DEPARTAMENTO",
+      "correo": "tesoreria@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a54"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a97"
+      },
+      "item": 10,
+      "nombres": "Gustavo Adolfo",
+      "apellidos": "APARICIO BELALCAZAR",
+      "cc": "16603757",
+      "cargo": "JEFE DEPARTAMENTO",
+      "correo": "contabilidad@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a55"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a98"
+      },
+      "item": 11,
+      "nombres": "Fabian Horacio",
+      "apellidos": "GARCIA BURBANO",
+      "cc": "12999299",
+      "cargo": "SISTEMAS",
+      "correo": "sistemas@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a56"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a99"
+      },
+      "item": 12,
+      "nombres": "Maria Isabel",
+      "apellidos": "GIRALDO CASTILLO",
+      "cc": "31834757",
+      "cargo": "JEFE DEPARTAMENTO",
+      "correo": "talento_humano@coopserp.com",
+      "rol": "Secretaria",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a57"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a9a"
+      },
+      "item": 13,
+      "nombres": "Paola Andrea",
+      "apellidos": "GALARZA ORTIZ",
+      "cc": "1114481374",
+      "cargo": "AUDITORIA INTERNA",
+      "correo": "auditoria@coopserp.com",
+      "rol": "Jur\u00eddico",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a58"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a9b"
+      },
+      "item": 14,
+      "nombres": "Juliana Andrea",
+      "apellidos": "SANCHEZ DIAZ",
+      "cc": "1113672592",
+      "cargo": "OFICIAL DE CUMPLIMIENTO",
+      "correo": "oficial@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a59"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a9c"
+      },
+      "item": 15,
+      "nombres": "Marilyn Samanta",
+      "apellidos": "DIAZ HERNANDEZ",
+      "cc": "1023943962",
+      "cargo": "JEFE \u00c1REA REPORTES",
+      "correo": "reportes.cali@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a5a"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a9d"
+      },
+      "item": 16,
+      "nombres": "Kevin",
+      "apellidos": "POSSO GORDILLO",
+      "cc": "1144208227",
+      "cargo": "COORDINADOR DE AGENCIAS",
+      "correo": "coor.1@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a5b"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a9e"
+      },
+      "item": 17,
+      "nombres": "Leydy Carolina",
+      "apellidos": "GUZMAN TOSSE",
+      "cc": "1144068048",
+      "cargo": "COORDINADOR DE AGENCIAS",
+      "correo": "coor.2@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a5c"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560a9f"
+      },
+      "item": 18,
+      "nombres": "Carolina",
+      "apellidos": "GONZALEZ GONZALEZ",
+      "cc": "1144029855",
+      "cargo": "COORDINADOR DE AGENCIAS",
+      "correo": "coor.3@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a5d"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa0"
+      },
+      "item": 19,
+      "nombres": "Elvia Yolima",
+      "apellidos": "CEPEDA ANGULO",
+      "cc": "31580294",
+      "cargo": "COORDINADOR DE AGENCIAS",
+      "correo": "coor.4@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a5e"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa1"
+      },
+      "item": 20,
+      "nombres": "Juan Sebastian",
+      "apellidos": "SOTO RESTREPO",
+      "cc": "1144203945",
+      "cargo": "COORDINADOR DE AGENCIAS",
+      "correo": "coor.5@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a5f"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa2"
+      },
+      "item": 21,
+      "nombres": "Alejandra",
+      "apellidos": "OBANDO MEDINA",
+      "cc": "1193033789",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "palmira@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a60"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa3"
+      },
+      "item": 22,
+      "nombres": "Yina Liecel",
+      "apellidos": "HERRERA GONGORA",
+      "cc": "1144130526",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "buenaventura@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a61"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa4"
+      },
+      "item": 23,
+      "nombres": "Luis Alberto",
+      "apellidos": "LERMA M\u00c9NDEZ",
+      "cc": "14888322",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "buga@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a62"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa5"
+      },
+      "item": 24,
+      "nombres": "Augusto",
+      "apellidos": "SANTA DAVILA",
+      "cc": "94256173",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "tulua@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a63"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa6"
+      },
+      "item": 25,
+      "nombres": "Andrea Isadora",
+      "apellidos": "POTOSI RAMIREZ",
+      "cc": "38755261",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "sevilla@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a64"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa7"
+      },
+      "item": 26,
+      "nombres": "Isabel Eucaris",
+      "apellidos": "BORJA RAMOS",
+      "cc": "66750138",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "launion@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a65"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa8"
+      },
+      "item": 27,
+      "nombres": "Derly Andrea",
+      "apellidos": "GRISALES MAYOR",
+      "cc": "29775905",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "roldanillo@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a66"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aa9"
+      },
+      "item": 28,
+      "nombres": "Monica",
+      "apellidos": "RIVERA REYES",
+      "cc": "1006293876",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "cartago@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a67"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aaa"
+      },
+      "item": 29,
+      "nombres": "Sandra Lorena",
+      "apellidos": "ESPINOSA CASTA\u00d1EDA",
+      "cc": "1116433875",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "zarzal@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a68"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aab"
+      },
+      "item": 30,
+      "nombres": "Diana Lorena",
+      "apellidos": "OVALLE CASTELLANOS",
+      "cc": "66963908",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "caicedonia@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "66fff11c299e3761a97d48e6"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aad"
+      },
+      "item": 31,
+      "nombres": "Monica Yuleni",
+      "apellidos": "RIVERA PILLIMUE",
+      "cc": "1061536329",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "santanderdequilichao@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a6a"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aae"
+      },
+      "item": 32,
+      "nombres": "Miguel Angel",
+      "apellidos": "APOLINDAR MURIEL",
+      "cc": "1118259432",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "yumbo@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a6b"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aaf"
+      },
+      "item": 33,
+      "nombres": "Ginna Marcela",
+      "apellidos": "PALADINES VALENCIA",
+      "cc": "1112483313",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "jamundi@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a6c"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab0"
+      },
+      "item": 34,
+      "nombres": "Ruth Yanneth",
+      "apellidos": "GUZMAN ORTIZ",
+      "cc": "59824389",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "pasto@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a6d"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab1"
+      },
+      "item": 35,
+      "nombres": "Luisa Maria",
+      "apellidos": "LARA RESTREPO",
+      "cc": "1144073614",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "popayan@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a6e"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab2"
+      },
+      "item": 36,
+      "nombres": "Paola Alexandra",
+      "apellidos": "BASTIDAS QUEMAG",
+      "cc": "1085939736",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "ipiales@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a6f"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab3"
+      },
+      "item": 37,
+      "nombres": "Luz Karina",
+      "apellidos": "AHUANARI SU\u00c1REZ",
+      "cc": "1121204939",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "leticia@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a70"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab4"
+      },
+      "item": 38,
+      "nombres": "Ruth Yanneth",
+      "apellidos": "GUZMAN ORTIZ",
+      "cc": "59824389",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "NA@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a71"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab5"
+      },
+      "item": 39,
+      "nombres": "Gloria Viviana",
+      "apellidos": "BARRERO SOSA",
+      "cc": "52760019",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "soacha@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a72"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab6"
+      },
+      "item": 40,
+      "nombres": "Yenny Falsury",
+      "apellidos": "NARANJO SANCHEZ",
+      "cc": "30403539",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "manizales@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a73"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab7"
+      },
+      "item": 41,
+      "nombres": "Lizeth Camila",
+      "apellidos": "CASTILLO WAGNER",
+      "cc": "1075687119",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "zipaquira@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a74"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab8"
+      },
+      "item": 42,
+      "nombres": "Paula Andrea",
+      "apellidos": "GUEVARA FRANCO",
+      "cc": "42157284",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "pereira@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a75"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ab9"
+      },
+      "item": 43,
+      "nombres": "Shirley Katherine",
+      "apellidos": "GARCIA",
+      "cc": "1022363295",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "girardot@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a76"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aba"
+      },
+      "item": 44,
+      "nombres": "Angie Yarley",
+      "apellidos": "DE LA ROSA HGELLER",
+      "cc": "1123628693",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "sanandres@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a77"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560abb"
+      },
+      "item": 45,
+      "nombres": "Nancy Yulieth",
+      "apellidos": "ESPINOSA LOPEZ",
+      "cc": "1115184016",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "armenia@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a78"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560abc"
+      },
+      "item": 46,
+      "nombres": "Derly",
+      "apellidos": "AZUCENA ROJAS",
+      "cc": "1018372547",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "medellin@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a79"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560abd"
+      },
+      "item": 47,
+      "nombres": "Katerine",
+      "apellidos": "DIAZ CANCHILA",
+      "cc": "1102831153",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "monteria@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a7a"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560abe"
+      },
+      "item": 48,
+      "nombres": "Adriana Patricia",
+      "apellidos": "LUNA CARABALLO",
+      "cc": "1102862546",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "sincelejo@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a7b"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560abf"
+      },
+      "item": 49,
+      "nombres": "Angela Oleydi",
+      "apellidos": "VELANDIA ABRIL",
+      "cc": "1006635866",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "yopal@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a7c"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac0"
+      },
+      "item": 50,
+      "nombres": "Susan Margarita",
+      "apellidos": "RAMIREZ BORREGO",
+      "cc": "1118864049",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "riohacha@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a7d"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac1"
+      },
+      "item": 51,
+      "nombres": "Shirley",
+      "apellidos": "MARTINEZ TELLEZ",
+      "cc": "26945883",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "valledupar@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a7e"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac2"
+      },
+      "item": 52,
+      "nombres": "Maria Claudia",
+      "apellidos": "BAIZ CRUZ",
+      "cc": "1102850537",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "cartagena@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a7f"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac3"
+      },
+      "item": 53,
+      "nombres": "Loraine",
+      "apellidos": "LAGARES CORDERO",
+      "cc": "1007116205",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "barranquilla@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a80"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac4"
+      },
+      "item": 54,
+      "nombres": "Asleydi Karina",
+      "apellidos": "DE ARMAS GONZALEZ",
+      "cc": "1083016182",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "santamarta@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a81"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac5"
+      },
+      "item": 55,
+      "nombres": "Joseph Sebasti\u00e1n",
+      "apellidos": "VARGAS FUENTES",
+      "cc": "1052402978",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "duitama@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a82"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac6"
+      },
+      "item": 56,
+      "nombres": "Jessica Lizeth",
+      "apellidos": "AGUILLON CEPEDA",
+      "cc": "1012376685",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "bogotacentro@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a83"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac7"
+      },
+      "item": 57,
+      "nombres": "Paola Alexandra",
+      "apellidos": "AYALA REVELO",
+      "cc": "27255291",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "bogotatc@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a84"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac8"
+      },
+      "item": 58,
+      "nombres": "Karen Liseth",
+      "apellidos": "FORERO PI\u00d1EROS",
+      "cc": "1010175810",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "bogotanorte@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a85"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ac9"
+      },
+      "item": 59,
+      "nombres": "Yina Zulay",
+      "apellidos": "PARRA TABORDA",
+      "cc": "1121898821",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "villavicencio@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a86"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560aca"
+      },
+      "item": 60,
+      "nombres": "Arelix",
+      "apellidos": "CARO CUERVO",
+      "cc": "40042957",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "tunja@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a87"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560acb"
+      },
+      "item": 61,
+      "nombres": "Ines Lucia",
+      "apellidos": "ECHEVERRY CARVAJAL",
+      "cc": "28551744",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "ibague@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a88"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560acc"
+      },
+      "item": 62,
+      "nombres": "Erika Patricia",
+      "apellidos": "MU\u00d1OZ FAJARDO",
+      "cc": "1075293292",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "neiva@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a89"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560acd"
+      },
+      "item": 63,
+      "nombres": "Yuly Andrea",
+      "apellidos": "GUTIERREZ DIAZ",
+      "cc": "63555259",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "bucaramanga@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a8a"
+      }
+  },
+  {
+      "_id": {
+          "$oid": "670422fb9cb8a2778f560ace"
+      },
+      "item": 64,
+      "nombres": "Jessica Paola",
+      "apellidos": "PEREZ DUQUE",
+      "cc": "1092340470",
+      "cargo": "DIRECTOR DE AGENCIA",
+      "correo": "cucuta@coopserp.com",
+      "rol": "Agencia",
+      "verificacion": false,
+      "status": "activo",
+      "visible": 1,
+      "agencia": {
+          "$oid": "670416909cb8a2778f560a8b"
+      }
+  }
+]

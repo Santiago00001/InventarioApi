@@ -1,0 +1,770 @@
+[
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a4c"
+        },
+        "item": 1,
+        "coordinador": "C5",
+        "cod": 13,
+        "nombre": "BOGOTA ELEMENTO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a8e"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a4d"
+        },
+        "item": 2,
+        "coordinador": "NA",
+        "cod": 13,
+        "nombre": "REPORTES BOGOT\u00c1",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a8f"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a4e"
+        },
+        "item": 3,
+        "coordinador": "NA",
+        "cod": 21,
+        "nombre": "JURIDICO BOGOT\u00c1 ZONA CENTRO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a90"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a4f"
+        },
+        "item": 4,
+        "coordinador": "NA",
+        "cod": 22,
+        "nombre": "JURIDICO BARRANQUILLA ZONA NORTE",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a91"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a50"
+        },
+        "item": 5,
+        "coordinador": "NA",
+        "cod": 23,
+        "nombre": "JURIDICO CALI ZONA SUR",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a92"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a51"
+        },
+        "item": 6,
+        "coordinador": "C5",
+        "cod": 30,
+        "nombre": "CALI BC",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a93"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a52"
+        },
+        "item": 7,
+        "coordinador": "C5",
+        "cod": 31,
+        "nombre": "CALI",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a94"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a53"
+        },
+        "item": 8,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "DIRECCI\u00d3N GENERAL",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a95"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a54"
+        },
+        "item": 9,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "TESORER\u00cdA ",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a96"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a55"
+        },
+        "item": 10,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "CONTABILIDAD",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a97"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a56"
+        },
+        "item": 11,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "SISTEMAS",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a98"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a57"
+        },
+        "item": 12,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "TALENTO HUMANO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a99"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a58"
+        },
+        "item": 13,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "AUDITORIA INTERNA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a9a"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a59"
+        },
+        "item": 14,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "OFICIAL DE CUMPLIMIENTO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a9b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a5a"
+        },
+        "item": 15,
+        "coordinador": "NA",
+        "cod": 31,
+        "nombre": "REPORTES CALI",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a9c"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a5b"
+        },
+        "item": 16,
+        "coordinador": "C1",
+        "cod": 31,
+        "nombre": "COORDINADOR DE AGENCIAS 1",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a9d"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a5c"
+        },
+        "item": 17,
+        "coordinador": "C2",
+        "cod": 31,
+        "nombre": "COORDINADOR DE AGENCIAS 2",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a9e"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a5d"
+        },
+        "item": 18,
+        "coordinador": "C3",
+        "cod": 31,
+        "nombre": "COORDINADOR DE AGENCIAS 3",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560a9f"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a5e"
+        },
+        "item": 19,
+        "coordinador": "C4",
+        "cod": 31,
+        "nombre": "COORDINADOR DE AGENCIAS 4",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a5f"
+        },
+        "item": 20,
+        "coordinador": "C5",
+        "cod": 31,
+        "nombre": "COORDINADOR DE AGENCIAS 5",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa1"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a60"
+        },
+        "item": 21,
+        "coordinador": "C3",
+        "cod": 32,
+        "nombre": "PALMIRA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a61"
+        },
+        "item": 22,
+        "coordinador": "C2",
+        "cod": 33,
+        "nombre": "BUENAVENTURA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa3"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a62"
+        },
+        "item": 23,
+        "coordinador": "C1",
+        "cod": 34,
+        "nombre": "BUGA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa4"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a63"
+        },
+        "item": 24,
+        "coordinador": "C1",
+        "cod": 35,
+        "nombre": "TULUA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a64"
+        },
+        "item": 25,
+        "coordinador": "C1",
+        "cod": 36,
+        "nombre": "SEVILLA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa6"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a65"
+        },
+        "item": 26,
+        "coordinador": "C1",
+        "cod": 37,
+        "nombre": "LA UNION",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa7"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a66"
+        },
+        "item": 27,
+        "coordinador": "C1",
+        "cod": 38,
+        "nombre": "ROLDANILLO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa8"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a67"
+        },
+        "item": 28,
+        "coordinador": "C2",
+        "cod": 39,
+        "nombre": "CARTAGO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aa9"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a68"
+        },
+        "item": 29,
+        "coordinador": "C1",
+        "cod": 40,
+        "nombre": "ZARZAL",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aaa"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a69"
+        },
+        "item": 30,
+        "coordinador": "C1",
+        "cod": 41,
+        "nombre": "CAICEDONIA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aac"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a6a"
+        },
+        "item": 31,
+        "coordinador": "C3",
+        "cod": 42,
+        "nombre": "SANTANDER DE QUILICHAO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aad"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a6b"
+        },
+        "item": 32,
+        "coordinador": "C5",
+        "cod": 43,
+        "nombre": "YUMBO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aae"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a6c"
+        },
+        "item": 33,
+        "coordinador": "C4",
+        "cod": 44,
+        "nombre": "JAMUNDI",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aaf"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a6d"
+        },
+        "item": 34,
+        "coordinador": "C4",
+        "cod": 45,
+        "nombre": "PASTO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a6e"
+        },
+        "item": 35,
+        "coordinador": "C2",
+        "cod": 46,
+        "nombre": "POPAYAN",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab1"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a6f"
+        },
+        "item": 36,
+        "coordinador": "C3",
+        "cod": 47,
+        "nombre": "IPIALES",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a70"
+        },
+        "item": 37,
+        "coordinador": "C4",
+        "cod": 48,
+        "nombre": "LETICIA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab3"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a71"
+        },
+        "item": 38,
+        "coordinador": "C4",
+        "cod": 49,
+        "nombre": "PUERTO ASIS",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab4"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a72"
+        },
+        "item": 39,
+        "coordinador": "C5",
+        "cod": 68,
+        "nombre": "SOACHA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a73"
+        },
+        "item": 40,
+        "coordinador": "C2",
+        "cod": 70,
+        "nombre": "MANIZALES",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab6"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a74"
+        },
+        "item": 41,
+        "coordinador": "C5",
+        "cod": 73,
+        "nombre": "ZIPAQUIRA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab7"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a75"
+        },
+        "item": 42,
+        "coordinador": "C4",
+        "cod": 74,
+        "nombre": "PEREIRA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab8"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a76"
+        },
+        "item": 43,
+        "coordinador": "C5",
+        "cod": 76,
+        "nombre": "GIRARDOT",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ab9"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a77"
+        },
+        "item": 44,
+        "coordinador": "C2",
+        "cod": 77,
+        "nombre": "SAN ANDRES",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aba"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a78"
+        },
+        "item": 45,
+        "coordinador": "C2",
+        "cod": 78,
+        "nombre": "ARMENIA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560abb"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a79"
+        },
+        "item": 46,
+        "coordinador": "C2",
+        "cod": 80,
+        "nombre": "MEDELLIN",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560abc"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a7a"
+        },
+        "item": 47,
+        "coordinador": "C3",
+        "cod": 81,
+        "nombre": "MONTERIA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560abd"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a7b"
+        },
+        "item": 48,
+        "coordinador": "C3",
+        "cod": 82,
+        "nombre": "SINCELEJO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560abe"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a7c"
+        },
+        "item": 49,
+        "coordinador": "C3",
+        "cod": 83,
+        "nombre": "YOPAL",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560abf"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a7d"
+        },
+        "item": 50,
+        "coordinador": "C4",
+        "cod": 84,
+        "nombre": "RIOHACHA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a7e"
+        },
+        "item": 51,
+        "coordinador": "C3",
+        "cod": 85,
+        "nombre": "VALLEDUPAR",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac1"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a7f"
+        },
+        "item": 52,
+        "coordinador": "C5",
+        "cod": 86,
+        "nombre": "CARTAGENA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a80"
+        },
+        "item": 53,
+        "coordinador": "C1",
+        "cod": 87,
+        "nombre": "BARRANQUILLA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac3"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a81"
+        },
+        "item": 54,
+        "coordinador": "C2",
+        "cod": 88,
+        "nombre": "SANTA MARTA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac4"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a82"
+        },
+        "item": 55,
+        "coordinador": "C4",
+        "cod": 89,
+        "nombre": "DUITAMA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a83"
+        },
+        "item": 56,
+        "coordinador": "C3",
+        "cod": 90,
+        "nombre": "BOGOTA CENTRO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac6"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a84"
+        },
+        "item": 57,
+        "coordinador": "C4",
+        "cod": 91,
+        "nombre": "BOGOTA T.C.",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac7"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a85"
+        },
+        "item": 58,
+        "coordinador": "C2",
+        "cod": 92,
+        "nombre": "BOGOTA NORTE",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac8"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a86"
+        },
+        "item": 59,
+        "coordinador": "C1",
+        "cod": 93,
+        "nombre": "VILLAVICENCIO",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ac9"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a87"
+        },
+        "item": 60,
+        "coordinador": "C3",
+        "cod": 94,
+        "nombre": "TUNJA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560aca"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a88"
+        },
+        "item": 61,
+        "coordinador": "C4",
+        "cod": 95,
+        "nombre": "IBAGUE",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560acb"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a89"
+        },
+        "item": 62,
+        "coordinador": "C1",
+        "cod": 96,
+        "nombre": "NEIVA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560acc"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a8a"
+        },
+        "item": 63,
+        "coordinador": "C4",
+        "cod": 97,
+        "nombre": "BUCARAMANGA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560acd"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "670416909cb8a2778f560a8b"
+        },
+        "item": 64,
+        "coordinador": "C2",
+        "cod": 98,
+        "nombre": "CUCUTA",
+        "director": {
+            "$oid": "670422fb9cb8a2778f560ace"
+        }
+    }
+]

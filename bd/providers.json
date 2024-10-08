@@ -1,0 +1,41 @@
+[
+    {
+        "Nit": "123456789-0",
+        "nombre_empresa": "Limpieza Total S.A.S.",
+        "direccion": "Calle 1 #23-45",
+        "ciudad": "Bogotá",
+        "email": "proveedor1@example.com",
+        "tel": "1234567",
+        "cel": "3001234567",
+        "correo": "contacto1@example.com",
+        "rut": "12.345.678-9",
+        "actividad_economica": "Servicios de limpieza",
+        "fecha_inaug_empresa": "2010-05-15"
+    },
+    {
+        "Nit": "987654321-0",
+        "nombre_empresa": "Ofimática Express Ltda.",
+        "direccion": "Avenida 2 #34-56",
+        "ciudad": "Medellín",
+        "email": "proveedor2@example.com",
+        "tel": "7654321",
+        "cel": "3007654321",
+        "correo": "contacto2@example.com",
+        "rut": "98.765.432-1",
+        "actividad_economica": "Suministros de oficina",
+        "fecha_inaug_empresa": "2015-08-20"
+    },
+    {
+        "Nit": "456123789-0",
+        "nombre_empresa": "Comercio Mayorista S.A.",
+        "direccion": "Carrera 3 #12-34",
+        "ciudad": "Cali",
+        "email": "proveedor3@example.com",
+        "tel": "3456789",
+        "cel": "3101234567",
+        "correo": "contacto3@example.com",
+        "rut": "45.612.378-9",
+        "actividad_economica": "Comercio al por mayor",
+        "fecha_inaug_empresa": "2018-03-10"
+    }
+]

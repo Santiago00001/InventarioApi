@@ -1,0 +1,164 @@
+[
+    {
+        "_id": {
+            "$oid": "66fd63733e2924728dcfead2"
+        },
+        "tipo": "Compra",
+        "usuarioId": {
+            "$oid": "66fd5c6a3e2924728dcfea96"
+        },
+        "agenciaId": {
+            "$oid": "66fd5bff3e2924728dcfea8e"
+        },
+        "estado_aprobacion": {
+            "coordinacion": true,
+            "jefatura": true,
+            "direccion": false
+        },
+        "productos": [
+            {
+                "productoId": {
+                    "$oid": "66fd5cf93e2924728dcfeaa2"
+                },
+                "proveedores": [
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa7"
+                        },
+                        "cantidad": 1,
+                        "precio": 300,
+                        "total": 300
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa8"
+                        },
+                        "cantidad": 1,
+                        "precio": 400,
+                        "total": 400
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa9"
+                        },
+                        "cantidad": 1,
+                        "precio": 280,
+                        "total": 280
+                    }
+                ]
+            },
+            {
+                "productoId": {
+                    "$oid": "66fd5cf93e2924728dcfeaa3"
+                },
+                "proveedores": [
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa9"
+                        },
+                        "cantidad": 2,
+                        "precio": 500,
+                        "total": 1000
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa8"
+                        },
+                        "cantidad": 2,
+                        "precio": 1000,
+                        "total": 2000
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa7"
+                        },
+                        "cantidad": 2,
+                        "precio": 480,
+                        "total": 960
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "66fd63733e2924728dcfead2"
+        },
+        "tipo": "Compra",
+        "usuarioId": {
+            "$oid": "66fd5c6a3e2924728dcfea96"
+        },
+        "agenciaId": {
+            "$oid": "66fd5bff3e2924728dcfea8e"
+        },
+        "estado_aprobacion": {
+            "coordinacion": true,
+            "jefatura": true,
+            "direccion": false
+        },
+        "productos": [
+            {
+                "productoId": {
+                    "$oid": "66fd5cf93e2924728dcfeaa2"
+                },
+                "proveedores": [
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa7"
+                        },
+                        "cantidad": 1,
+                        "precio": 300,
+                        "total": 300
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa8"
+                        },
+                        "cantidad": 1,
+                        "precio": 400,
+                        "total": 400
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa9"
+                        },
+                        "cantidad": 1,
+                        "precio": 280,
+                        "total": 280
+                    }
+                ]
+            },
+            {
+                "productoId": {
+                    "$oid": "66fd5cf93e2924728dcfeaa3"
+                },
+                "proveedores": [
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa9"
+                        },
+                        "cantidad": 2,
+                        "precio": 500,
+                        "total": 1000
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa8"
+                        },
+                        "cantidad": 2,
+                        "precio": 1000,
+                        "total": 2000
+                    },
+                    {
+                        "proveedorId": {
+                            "$oid": "66fd5d563e2924728dcfeaa7"
+                        },
+                        "cantidad": 2,
+                        "precio": 480,
+                        "total": 960
+                    }
+                ]
+            }
+        ]
+    }
+]

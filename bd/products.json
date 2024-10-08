@@ -1,0 +1,47 @@
+[
+  {
+    "item": 1,
+    "nombre": "AMBIENTADOR SPRAY BRIZZE X360ML",
+    "categoria": "A",
+    "grupo_desc": "Aseo",
+    "tipo": "E",
+    "precio": 300,
+    "presentacion": "UND",
+    "proveedor1": "Proveedor A",
+    "proveedor2": "Proveedor B",
+    "proveedor3": "Proveedor C",
+    "cta_cont": "511018",
+    "codigo": "5110180010",
+    "visible": 1
+  },
+  {
+    "item": 2,
+    "nombre": "BACTERICIDA X 3800ML",
+    "categoria": "A",
+    "grupo_desc": "Aseo",
+    "tipo": "E",
+    "precio": 300,
+    "presentacion": "GAL",
+    "proveedor1": "Proveedor A",
+    "proveedor2": "Proveedor B",
+    "proveedor3": "Proveedor C",
+    "cta_cont": "511018",
+    "codigo": "5110180020",
+    "visible": 1
+  },
+  {
+    "item": 3,
+    "nombre": "BALDE 3L",
+    "categoria": "A",
+    "grupo_desc": "Aseo",
+    "tipo": "E",
+    "precio": 300,
+    "presentacion": "UND",
+    "proveedor1": "Proveedor A",
+    "proveedor2": "Proveedor B",
+    "proveedor3": "Proveedor C",
+    "cta_cont": "511018",
+    "codigo": "5110180030",
+    "visible": 1
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": 1,
+        "nombre": "AMBIENTADOR SPRAY BRIZZE X360ML",
+        "stock_actual": 50
+    },
+    {
+        "item": 2,
+        "nombre": "BACTERICIDA X 3800ML",
+        "stock_actual": 30
+    },
+    {
+        "item": 3,
+        "nombre": "BALDE 3L",
+        "stock_actual": 20
+    }
+]
