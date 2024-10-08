@@ -16,7 +16,7 @@ const getAllUsers = async (req, res) => {
 
 // Crear un nuevo usuario
 const createUser = async (req, res) => {
-    const { nombres, apellidos, cc, correo, agencia, rol, verificacion, status } = req.body;
+    const { nombres, apellidos, cc, cargo, correo, agencia, rol, verificacion, status } = req.body;
 
     if (!nombres || !apellidos || !cc) {
         return res.status(400).json({ message: "Nombres, apellidos y CC son requeridos." });
@@ -42,6 +42,7 @@ const createUser = async (req, res) => {
             nombres,
             apellidos,
             cc,
+            cargo,
             correo,
             agencia, // Puedes almacenar el ObjectId aquí
             rol,
@@ -80,7 +81,7 @@ const updateUser = async (req, res) => {
     const { id } = req.params;
 
     try {
-        const { nombres, apellidos, cc, agencia, rol, verificacion, status } = req.body;
+        const { nombres, apellidos, cc, cargo, correo, agencia, rol, verificacion, status } = req.body;
         const user = await User.findById(id);
 
         if (!user) {
@@ -98,6 +99,8 @@ const updateUser = async (req, res) => {
         user.nombres = nombres || user.nombres;
         user.apellidos = apellidos || user.apellidos;
         user.cc = cc || user.cc;
+        user.cargo = cargo || user.cargo;
+        user.correo = correo || user.correo;
         user.rol = rol || user.rol;
         user.verificacion = verificacion !== undefined ? verificacion : user.verificacion;
         user.status = status || user.status;
