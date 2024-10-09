@@ -1,5 +1,6 @@
 // src/models/User.js
 const mongoose = require('mongoose');
+const bcrypt = require('bcrypt');
 
 const userSchema = new mongoose.Schema({
     item: {
@@ -43,12 +44,21 @@ const userSchema = new mongoose.Schema({
         type: String,
         default: 'activo',
     },
+    password: { 
+        type: String,
+        required: false,
+    },
     visible: {
         type: Number,
-        default: 1, // 1 para visible, 0 para no visible
+        default: 1,
     },
 }, {
-    timestamps: true, // Agrega createdAt y updatedAt automáticamente
+    timestamps: true,
 });
+
+// Método para comparar contraseñas
+userSchema.methods.comparePassword = async function(password) {
+    return await bcrypt.compare(password, this.password);
+};
 
 module.exports = mongoose.model('User', userSchema);

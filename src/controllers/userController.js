@@ -14,41 +14,42 @@ const getAllUsers = async (req, res) => {
     }
 };
 
-// Crear un nuevo usuario
+// Crear un nuevo usuario (actualizado para almacenar la contraseña hasheada)
 const createUser = async (req, res) => {
-    const { nombres, apellidos, cc, cargo, correo, agencia, rol, verificacion, status } = req.body;
+    const { nombres, apellidos, cc, cargo, correo, agencia, rol, verificacion, status, password } = req.body;
 
-    if (!nombres || !apellidos || !cc) {
-        return res.status(400).json({ message: "Nombres, apellidos y CC son requeridos." });
+    if (!nombres || !apellidos || !cc || !password) {
+        return res.status(400).json({ message: "Nombres, apellidos, CC y contraseña son requeridos." });
     }
 
     try {
-        const existingUser = await User.findOne({ cc, _id: { $ne: User._id } });
+        // Hash de la contraseña
+        const hashedPassword = await bcrypt.hash(password, 10); // El número 10 es el número de rondas de sal para el hash
+
+        const existingUser = await User.findOne({ cc });
 
         if (existingUser) {
-            // Si ya existe, actualizar su visibilidad
-            existingUser.visible = 1; // Reactivar el usuario
-            await existingUser.save(); // Guardar cambios
-            return res.status(200).json({ message: "Usuario existente activado nuevamente.", user: existingUser });
+            return res.status(400).json({ message: "El usuario ya existe." });
         }
 
         // Obtener el último valor de "item" en la colección
-        const lastUser = await User.findOne().sort({ item: -1 }); // Buscar el último usuario por "item" de forma descendente
-        const nextItem = lastUser ? lastUser.item + 1 : 1; // Si hay un usuario, incrementa su "item", si no, empieza en 1
+        const lastUser = await User.findOne().sort({ item: -1 });
+        const nextItem = lastUser ? lastUser.item + 1 : 1;
 
-        // Crear un nuevo usuario
+        // Crear un nuevo usuario con la contraseña hasheada
         const newUser = new User({
-            item: nextItem, // Asignar el siguiente número de item
+            item: nextItem,
             nombres,
             apellidos,
             cc,
             cargo,
             correo,
-            agencia, // Puedes almacenar el ObjectId aquí
+            agencia,
             rol,
             verificacion: verificacion || false,
             status: status || "activo",
-            visible: 1 // Establecer como visible por defecto
+            visible: 1,
+            password: hashedPassword // Guardar la contraseña hasheada
         });
 
         await newUser.save();

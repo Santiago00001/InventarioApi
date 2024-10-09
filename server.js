@@ -8,6 +8,7 @@ const userRoutes = require('./src/routes/userRoutes');
 const productsRoutes = require('./src/routes/productsRoutes');
 const providersRoutes = require('./src/routes/providersRoutes');
 const agencysRoutes = require('./src/routes/agencyRoutes');
+const authRoutes = require('./src/core/auth/authRoutes'); // Importar rutas de autenticación
 
 // Crear la aplicación Express
 const app = express();
@@ -26,6 +27,7 @@ app.use('/api/users', userRoutes);
 app.use('/api/products', productsRoutes);
 app.use('/api/providers', providersRoutes);
 app.use('/api/agencys', agencysRoutes);
+app.use('/api/auth', authRoutes); // Añadir la ruta de autenticación
 
 // Ruta de prueba
 app.get('/', (req, res) => {
