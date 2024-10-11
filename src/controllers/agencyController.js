@@ -77,12 +77,17 @@ const updateAgency = async (req, res) => {
             return res.status(404).json({ message: "Agencia no encontrada." });
         }
 
-        const { nombre, direccion, telefono } = req.body;
+        const { nombre, direccion, telefono, director } = req.body;
 
         // Actualiza solo los campos que se han proporcionado
         agency.nombre = nombre || agency.nombre;
         agency.direccion = direccion || agency.direccion;
         agency.telefono = telefono || agency.telefono;
+
+        // Verifica si el director está presente en la solicitud
+        if (director) {
+            agency.director = director; // Actualiza el campo director con el nuevo ObjectId
+        }
 
         await agency.save();
         res.status(200).json(agency);
