@@ -15,23 +15,19 @@ const getAllProducts = async (req, res) => {
 
 // Crear un nuevo producto
 const createProduct = async (req, res) => {
-    const { nombre, categoria, grupo_desc, tipo, precio, presentacion, proveedor1, proveedor2, proveedor3, cta_cont, codigo } = req.body;
+    const { nombre, categoria, grupo_desc, tipo, precio, presentacion, cta_cont } = req.body;
 
     // Verificar que se proporcionen datos necesarios
-    if (!nombre || !precio || !codigo) {
-        return res.status(400).json({ message: "Nombre, precio y código son requeridos." });
+    if (!nombre || !categoria) {
+        return res.status(400).json({ message: "Nombre y categoría son requeridos." });
     }
 
     try {
-        // Buscar si el producto ya existe
-        const existingProduct = await Product.findOne({ codigo });
+        // Buscar el producto más alto en la misma categoría
+        const highestProduct = await Product.findOne({ categoria }).sort({ codigo: -1 });
 
-        if (existingProduct) {
-            // Si ya existe, actualizar su visibilidad
-            existingProduct.visible = 1;
-            await existingProduct.save();
-            return res.status(200).json({ message: "Producto existente activado nuevamente.", product: existingProduct });
-        }
+        // Determinar el nuevo código
+        const newCode = highestProduct ? highestProduct.codigo + 10 : 10; // Si no existe, iniciar en 10
 
         // Crear un nuevo producto
         const newProduct = new Product({
@@ -41,11 +37,8 @@ const createProduct = async (req, res) => {
             tipo,
             precio,
             presentacion,
-            proveedor1,
-            proveedor2,
-            proveedor3,
             cta_cont,
-            codigo,
+            codigo: newCode,
             visible: 1, // Establecer como visible por defecto
         });
 
@@ -86,7 +79,15 @@ const updateProduct = async (req, res) => {
             return res.status(404).json({ message: "Producto no encontrado." });
         }
 
-        const { nombre, categoria, grupo_desc, tipo, precio, presentacion, proveedor1, proveedor2, proveedor3, cta_cont, codigo } = req.body;
+        const { nombre, categoria, grupo_desc, tipo, precio, presentacion, cta_cont, codigo } = req.body;
+
+        // Verificar si el nuevo código ya existe en la base de datos
+        if (codigo) {
+            const existingProduct = await Product.findOne({ codigo });
+            if (existingProduct && existingProduct._id.toString() !== id) {
+                return res.status(400).json({ message: "El código ya está en uso por otro producto." });
+            }
+        }
 
         // Actualiza solo los campos que se han proporcionado
         product.nombre = nombre || product.nombre;
@@ -95,9 +96,6 @@ const updateProduct = async (req, res) => {
         product.tipo = tipo || product.tipo;
         product.precio = precio || product.precio;
         product.presentacion = presentacion || product.presentacion;
-        product.proveedor1 = proveedor1 || product.proveedor1;
-        product.proveedor2 = proveedor2 || product.proveedor2;
-        product.proveedor3 = proveedor3 || product.proveedor3;
         product.cta_cont = cta_cont || product.cta_cont;
         product.codigo = codigo || product.codigo;
 

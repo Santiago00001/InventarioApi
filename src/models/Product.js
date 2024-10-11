@@ -8,11 +8,11 @@ const productSchema = new mongoose.Schema({
         required: true,
     },
     cta_cont: {
-        type: String,
+        type: Number,
         required: false,
     },
     codigo: {
-        type: String,
+        type: Number,
         required: true,
         unique: true,
     },
@@ -30,7 +30,7 @@ const productSchema = new mongoose.Schema({
     },
     precio: {
         type: Number,
-        required: true,
+        required: false,
     },
     presentacion: {
         type: String,
