@@ -14,16 +14,16 @@ const getAllAgencies = async (req, res) => {
 
 // Crear una nueva agencia
 const createAgency = async (req, res) => {
-    const { nombre, direccion, telefono } = req.body;
+    const { nombre, cod, coordinador, director } = req.body;
 
     // Verificar que se proporcionen datos necesarios
-    if (!nombre || !direccion) {
+    if (!nombre || !cod || !coordinador || !director) {
         return res.status(400).json({ message: "Nombre y dirección son requeridos." });
     }
 
     try {
         // Buscar si la agencia ya existe
-        const existingAgency = await Agency.findOne({ nombre }); // Suponiendo que el nombre es único
+        const existingAgency = await Agency.findOne({ cod }); // Suponiendo que el nombre es único
 
         if (existingAgency) {
             // Si ya existe, actualizar su visibilidad
@@ -35,8 +35,9 @@ const createAgency = async (req, res) => {
         // Crear una nueva agencia
         const newAgency = new Agency({
             nombre,
-            direccion,
-            telefono,
+            cod,
+            coordinador,
+            director,
             visible: 1 // Establecer como visible por defecto
         });
 

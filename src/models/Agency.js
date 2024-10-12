@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const agenciaSchema = new mongoose.Schema({
     item: {
         type: Number,
-        required: true,
+        required: false,
     },
     cod: {
         type: Number,
@@ -18,9 +18,9 @@ const agenciaSchema = new mongoose.Schema({
         required: true,
     },
     director: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: 'User',
-    }
+        type: String,
+        required: true,
+    },
 }, {
     timestamps: true, // Agrega createdAt y updatedAt automáticamente
 });

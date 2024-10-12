@@ -1,6 +1,7 @@
 // src/controllers/userController.js
 
 const User = require('../models/User'); // Asegúrate de que esta ruta sea correcta
+const bcrypt = require('bcrypt'); // Make sure to import bcrypt at the top
 
 // Obtener todos los usuarios
 const getAllUsers = async (req, res) => {
@@ -14,17 +15,17 @@ const getAllUsers = async (req, res) => {
     }
 };
 
-// Crear un nuevo usuario (actualizado para almacenar la contraseña hasheada)
 const createUser = async (req, res) => {
-    const { nombres, apellidos, cc, cargo, correo, agencia, rol, verificacion, status, password } = req.body;
+    const { nombres, apellidos, cc, cargo, correo, agencia, rol, verificacion, status } = req.body;
 
-    if (!nombres || !apellidos || !cc || !password) {
-        return res.status(400).json({ message: "Nombres, apellidos, CC y contraseña son requeridos." });
+    if (!nombres || !apellidos || !cc) {
+        return res.status(400).json({ message: "Nombres, apellidos y CC son requeridos." });
     }
 
     try {
-        // Hash de la contraseña
-        const hashedPassword = await bcrypt.hash(password, 10); // El número 10 es el número de rondas de sal para el hash
+        // Contraseña por defecto
+        const defaultPassword = "coopserp2024";
+        const hashedPassword = await bcrypt.hash(defaultPassword, 10); // Hashea la contraseña por defecto
 
         const existingUser = await User.findOne({ cc });
 
