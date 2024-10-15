@@ -125,6 +125,27 @@ const updateUser = async (req, res) => {
     }
 };
 
+// Controlador para actualizar el estado del usuario
+const updateUserStatus = async (req, res) => {
+    const { id } = req.params;
+    const { status } = req.body; // Recibimos el nuevo estado desde el cuerpo de la petición
+
+    try {
+        const user = await User.findById(id);
+
+        if (!user) {
+            return res.status(404).json({ message: 'Usuario no encontrado' });
+        }
+
+        user.status = status; // Actualizamos el estado
+        await user.save(); // Guardamos los cambios en la base de datos
+
+        return res.status(200).json({ message: 'Estado del usuario actualizado correctamente' });
+    } catch (error) {
+        return res.status(500).json({ message: 'Error al actualizar el estado', error });
+    }
+};
+
 // Eliminar un usuario (ocultar)
 const deleteUser = async (req, res) => {
     const { id } = req.params;
@@ -152,5 +173,6 @@ module.exports = {
     createUser,
     getUserById,
     updateUser,
+    updateUserStatus,
     deleteUser
 };

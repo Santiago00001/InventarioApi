@@ -18,8 +18,8 @@ const agenciaSchema = new mongoose.Schema({
         required: true,
     },
     director: {
-        type: String,
-        required: true,
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'User',
     },
 }, {
     timestamps: true, // Agrega createdAt y updatedAt automáticamente

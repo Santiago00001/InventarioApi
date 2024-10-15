@@ -1,6 +1,5 @@
 [
     {
-        "item": 1,
         "nombre": "AMBIENTADOR SPRAY BRIZZE X360ML",
         "cta_cont": 511018,
         "codigo": 5110180010,
@@ -12,7 +11,6 @@
         "visible": 1
     },
     {
-        "item": 2,
         "nombre": "BACTERICIDA X 3800ML",
         "cta_cont": 511018,
         "codigo": 5110180020,
@@ -24,7 +22,6 @@
         "visible": 1
     },
     {
-        "item": 3,
         "nombre": "BALDE 3L",
         "cta_cont": 511018,
         "codigo": 5110180030,
@@ -36,7 +33,6 @@
         "visible": 1
     },
     {
-        "item": 4,
         "nombre": "BALDE ESCURRIDOR DE TRAPEADOR",
         "cta_cont": 511018,
         "codigo": 5110180040,
@@ -48,7 +44,6 @@
         "visible": 1
     },
     {
-        "item": 5,
         "nombre": "BOLSA BASURA 50 X 60",
         "cta_cont": 511018,
         "codigo": 5110180050,
@@ -60,7 +55,6 @@
         "visible": 1
     },
     {
-        "item": 6,
         "nombre": "BOLSA BASURA 65 X 90",
         "cta_cont": 511018,
         "codigo": 5110180060,
@@ -72,7 +66,6 @@
         "visible": 1
     },
     {
-        "item": 7,
         "nombre": "BOLSA BASURA 90 X 110",
         "cta_cont": 511018,
         "codigo": 5110180070,
@@ -84,7 +77,6 @@
         "visible": 1
     },
     {
-        "item": 8,
         "nombre": "BOLSA RIESGO BIOLOGICO 50X60",
         "cta_cont": 511018,
         "codigo": 5110180080,
@@ -96,7 +88,6 @@
         "visible": 1
     },
     {
-        "item": 9,
         "nombre": "BRILLA METAL X55ML",
         "cta_cont": 511018,
         "codigo": 5110180090,
@@ -108,7 +99,6 @@
         "visible": 1
     },
     {
-        "item": 10,
         "nombre": "CEPILLO DE MANO",
         "cta_cont": 511018,
         "codigo": 5110180100,
@@ -120,7 +110,6 @@
         "visible": 1
     },
     {
-        "item": 11,
         "nombre": "CEPILLO PARA PISO",
         "cta_cont": 511018,
         "codigo": 5110180110,
@@ -132,7 +121,6 @@
         "visible": 1
     },
     {
-        "item": 12,
         "nombre": "CERA LIQUIDA",
         "cta_cont": 511018,
         "codigo": 5110180120,
@@ -144,7 +132,6 @@
         "visible": 1
     },
     {
-        "item": 13,
         "nombre": "CERA PARA LIMPIAR MUEBLES DE MADERA X 500 ML",
         "cta_cont": 511018,
         "codigo": 5110180130,
@@ -156,7 +143,6 @@
         "visible": 1
     },
     {
-        "item": 14,
         "nombre": "CREMA FROTEX",
         "cta_cont": 511018,
         "codigo": 5110180140,
@@ -168,7 +154,6 @@
         "visible": 1
     },
     {
-        "item": 15,
         "nombre": "DESMANCHADOR PARA JUNTAS",
         "cta_cont": 511018,
         "codigo": 5110180150,
@@ -180,7 +165,6 @@
         "visible": 1
     },
     {
-        "item": 16,
         "nombre": "DETERGENTE EN POLVO x 3000 categoria",
         "cta_cont": 511018,
         "codigo": 5110180160,
@@ -192,7 +176,6 @@
         "visible": 1
     },
     {
-        "item": 17,
         "nombre": "DETERGENTE LIQUIDO AZUL DERSA X 4000ML",
         "cta_cont": 511018,
         "codigo": 5110180170,
@@ -204,7 +187,6 @@
         "visible": 1
     },
     {
-        "item": 18,
         "nombre": "DETERGENTE LIQUIDO TRANSPARENTE X 3800ML",
         "cta_cont": 511018,
         "codigo": 5110180180,
@@ -216,7 +198,6 @@
         "visible": 1
     },
     {
-        "item": 19,
         "nombre": "ELIMINADOR DE OLORES BONAIRE X250ML",
         "cta_cont": 511018,
         "codigo": 5110180190,
@@ -228,7 +209,6 @@
         "visible": 1
     },
     {
-        "item": 20,
         "nombre": "ELIMINADOR DE OLORES FAMILIA X300ML",
         "cta_cont": 511018,
         "codigo": 5110180200,
@@ -240,7 +220,6 @@
         "visible": 1
     },
     {
-        "item": 21,
         "nombre": "ESCOBA",
         "cta_cont": 511018,
         "codigo": 5110180210,
@@ -252,7 +231,6 @@
         "visible": 1
     },
     {
-        "item": 22,
         "nombre": "ESCOBILLON BAÑOS",
         "cta_cont": 511018,
         "codigo": 5110180220,
@@ -264,7 +242,6 @@
         "visible": 1
     },
     {
-        "item": 23,
         "nombre": "ESCOBILLON PAREDES REPUESTO",
         "cta_cont": 511018,
         "codigo": 5110180230,
@@ -276,7 +253,6 @@
         "visible": 1
     },
     {
-        "item": 24,
         "nombre": "FABULOSO X 500ML",
         "cta_cont": 511018,
         "codigo": 5110180240,
@@ -288,7 +264,6 @@
         "visible": 1
     },
     {
-        "item": 25,
         "nombre": "GLADE AROMATIZANTE ELECTRICO APARATO + REPUESTO X 21ML",
         "cta_cont": 511018,
         "codigo": 5110180250,
@@ -300,7 +275,6 @@
         "visible": 1
     },
     {
-        "item": 26,
         "nombre": "GLADE AROMATIZANTE REPUESTO X 21ML",
         "cta_cont": 511018,
         "codigo": 5110180260,
@@ -312,7 +286,6 @@
         "visible": 1
     },
     {
-        "item": 27,
         "nombre": "GLADE AUTOMATICO APARATO + REPUESTO X 270ML",
         "cta_cont": 511018,
         "codigo": 5110180270,
@@ -324,7 +297,6 @@
         "visible": 1
     },
     {
-        "item": 28,
         "nombre": "GLADE AUTOMATICO REPUESTO X 270ML",
         "cta_cont": 511018,
         "codigo": 5110180280,
@@ -336,7 +308,6 @@
         "visible": 1
     },
     {
-        "item": 29,
         "nombre": "GUANTES PLASTICOS PARA ASEO T/7 PAR",
         "cta_cont": 511018,
         "codigo": 5110180290,
@@ -348,7 +319,6 @@
         "visible": 1
     },
     {
-        "item": 30,
         "nombre": "GUANTES PLASTICOS PARA ASEO T/8 PAR",
         "cta_cont": 511018,
         "codigo": 5110180300,
@@ -360,7 +330,6 @@
         "visible": 1
     },
     {
-        "item": 31,
         "nombre": "GUANTES PLASTICOS PARA ASEO T/9 PAR",
         "cta_cont": 511018,
         "codigo": 5110180310,
@@ -372,7 +341,6 @@
         "visible": 1
     },
     {
-        "item": 32,
         "nombre": "HARPIC PASTILLA",
         "cta_cont": 511018,
         "codigo": 5110180320,
@@ -384,7 +352,6 @@
         "visible": 1
     },
     {
-        "item": 33,
         "nombre": "JABON EN BARRA AZUL X180categoria",
         "cta_cont": 511018,
         "codigo": 5110180330,
@@ -396,7 +363,6 @@
         "visible": 1
     },
     {
-        "item": 34,
         "nombre": "JABON EN BARRA AZUL X200categoria",
         "cta_cont": 511018,
         "codigo": 5110180340,
@@ -408,7 +374,6 @@
         "visible": 1
     },
     {
-        "item": 35,
         "nombre": "JABON LIQUIDO LAVAPLATOS X 1000ML",
         "cta_cont": 511018,
         "codigo": 5110180350,
@@ -420,7 +385,6 @@
         "visible": 1
     },
     {
-        "item": 36,
         "nombre": "JABON LIQUIDO SCOTT X 500ML",
         "cta_cont": 511018,
         "codigo": 5110180360,
@@ -432,7 +396,6 @@
         "visible": 1
     },
     {
-        "item": 37,
         "nombre": "JABON PARA MANOS X 3800ML",
         "cta_cont": 511018,
         "codigo": 5110180370,
@@ -444,7 +407,6 @@
         "visible": 1
     },
     {
-        "item": 38,
         "nombre": "LIMPIA TELARAÑA TELESCOPICO",
         "cta_cont": 511018,
         "codigo": 5110180380,
@@ -456,7 +418,6 @@
         "visible": 1
     },
     {
-        "item": 39,
         "nombre": "LIMPIADOR QUITA categoriaASA EASY OFF MORADO X 500ML",
         "cta_cont": 511018,
         "codigo": 5110180390,
@@ -468,7 +429,6 @@
         "visible": 1
     },
     {
-        "item": 40,
         "nombre": "LIMPIAVIDRIOS X 500ML",
         "cta_cont": 511018,
         "codigo": 5110180400,
@@ -480,7 +440,6 @@
         "visible": 1
     },
     {
-        "item": 41,
         "nombre": "LIMPIDO X 450ML",
         "cta_cont": 511018,
         "codigo": 5110180410,
@@ -492,7 +451,6 @@
         "visible": 1
     },
     {
-        "item": 42,
         "nombre": "LIMPION DE TELA",
         "cta_cont": 511018,
         "codigo": 5110180420,
@@ -504,7 +462,6 @@
         "visible": 1
     },
     {
-        "item": 43,
         "nombre": "PALO DE REPUESTO",
         "cta_cont": 511018,
         "codigo": 5110180430,
@@ -516,7 +473,6 @@
         "visible": 1
     },
     {
-        "item": 44,
         "nombre": "PAPEL HIGIENICO DISPENSADOR",
         "cta_cont": 511018,
         "codigo": 5110180440,
@@ -528,7 +484,6 @@
         "visible": 1
     },
     {
-        "item": 45,
         "nombre": "PAPEL HIGIENICO EN ROLLO",
         "cta_cont": 511018,
         "codigo": 5110180450,
@@ -540,7 +495,6 @@
         "visible": 1
     },
     {
-        "item": 46,
         "nombre": "PAPELERA PARA BAÑO",
         "cta_cont": 511018,
         "codigo": 5110180460,
@@ -552,7 +506,6 @@
         "visible": 1
     },
     {
-        "item": 47,
         "nombre": "RAID LIQ. MOSQUITOS Y ZANCUDOS REPUESTO X 32,9 CM3",
         "cta_cont": 511018,
         "codigo": 5110180470,
@@ -564,7 +517,6 @@
         "visible": 1
     },
     {
-        "item": 48,
         "nombre": "RAID MATA CUCARACHAS AEROSOL X 360CM3",
         "cta_cont": 511018,
         "codigo": 5110180480,
@@ -576,7 +528,6 @@
         "visible": 1
     },
     {
-        "item": 49,
         "nombre": "RAID MATA CUCARACHAS AEROSOL X 400CM3",
         "cta_cont": 511018,
         "codigo": 5110180490,
@@ -588,7 +539,6 @@
         "visible": 1
     },
     {
-        "item": 50,
         "nombre": "RAID MATA ZANCUDOS Y MOSCAS AEROSOL X 400CM3",
         "cta_cont": 511018,
         "codigo": 5110180500,
@@ -600,7 +550,6 @@
         "visible": 1
     },
     {
-        "item": 51,
         "nombre": "RECOGEDOR",
         "cta_cont": 511018,
         "codigo": 5110180510,
@@ -612,7 +561,6 @@
         "visible": 1
     },
     {
-        "item": 52,
         "nombre": "REPUESTO JABON EN ESPpresentacionA KIMBERLY X 800 ML",
         "cta_cont": 511018,
         "codigo": 5110180520,
@@ -624,7 +572,6 @@
         "visible": 1
     },
     {
-        "item": 53,
         "nombre": "REPUESTO RECOGEDOR",
         "cta_cont": 511018,
         "codigo": 5110180530,
@@ -636,7 +583,6 @@
         "visible": 1
     },
     {
-        "item": 54,
         "nombre": "ROLLO TOALLA DE COCINA 20.1 X 21.5 CM",
         "cta_cont": 511018,
         "codigo": 5110180540,
@@ -648,7 +594,6 @@
         "visible": 1
     },
     {
-        "item": 55,
         "nombre": "ROLLO TOALLA DE COCINA 27.5 X 20.6 CM",
         "cta_cont": 511018,
         "codigo": 5110180550,
@@ -660,7 +605,6 @@
         "visible": 1
     },
     {
-        "item": 56,
         "nombre": "ROLLO TOALLA DE MANOS X 100MT",
         "cta_cont": 511018,
         "codigo": 5110180560,
@@ -672,7 +616,6 @@
         "visible": 1
     },
     {
-        "item": 57,
         "nombre": "SABRA ESPONJA LAVAPLATOS",
         "cta_cont": 511018,
         "codigo": 5110180570,
@@ -684,7 +627,6 @@
         "visible": 1
     },
     {
-        "item": 58,
         "nombre": "SHAMPOO ALFOMBRA TEXTIL X 3800 ML",
         "cta_cont": 511018,
         "codigo": 5110180580,
@@ -696,7 +638,6 @@
         "visible": 1
     },
     {
-        "item": 59,
         "nombre": "SHAMPOO LINEA PROFESIONAL",
         "cta_cont": 511018,
         "codigo": 5110180590,
@@ -708,7 +649,6 @@
         "visible": 1
     },
     {
-        "item": 60,
         "nombre": "SUAVIZANTE PARA ROPA X 3L",
         "cta_cont": 511018,
         "codigo": 5110180600,
@@ -720,7 +660,6 @@
         "visible": 1
     },
     {
-        "item": 61,
         "nombre": "TOALLA DE MANOS tipoO Z X 150 HOJAS",
         "cta_cont": 511018,
         "codigo": 5110180610,
@@ -732,7 +671,6 @@
         "visible": 1
     },
     {
-        "item": 62,
         "nombre": "TRAPEADORES",
         "cta_cont": 511018,
         "codigo": 5110180620,
@@ -744,7 +682,6 @@
         "visible": 1
     },
     {
-        "item": 63,
         "nombre": "AROMATICAS SURTIDAS X20UND",
         "cta_cont": 511020,
         "codigo": 5110200010,
@@ -756,7 +693,6 @@
         "visible": 1
     },
     {
-        "item": 64,
         "nombre": "AZUCAR X500GR",
         "cta_cont": 511020,
         "codigo": 5110200020,
@@ -768,7 +704,6 @@
         "visible": 1
     },
     {
-        "item": 65,
         "nombre": "CAFE X LIBRA",
         "cta_cont": 511020,
         "codigo": 5110200030,
@@ -780,7 +715,6 @@
         "visible": 1
     },
     {
-        "item": 66,
         "nombre": "CAJA STEVIA ZERO INCAUCA ",
         "cta_cont": 511020,
         "codigo": 5110200040,
@@ -792,7 +726,6 @@
         "visible": 1
     },
     {
-        "item": 67,
         "nombre": "CREMA INSTACREM X 100 UND",
         "cta_cont": 511020,
         "codigo": 5110200050,
@@ -804,7 +737,6 @@
         "visible": 1
     },
     {
-        "item": 68,
         "nombre": "FILTROS DE CAFE X 40UND",
         "cta_cont": 511020,
         "codigo": 5110200060,
@@ -816,7 +748,6 @@
         "visible": 1
     },
     {
-        "item": 69,
         "nombre": "GELATINA 0% AZUCAR SABOR SURTIDO",
         "cta_cont": 511020,
         "codigo": 5110200070,
@@ -828,7 +759,6 @@
         "visible": 1
     },
     {
-        "item": 70,
         "nombre": "MEZCLADORES PLASTICOS X 1000 UND",
         "cta_cont": 511020,
         "codigo": 5110200080,
@@ -840,7 +770,6 @@
         "visible": 1
     },
     {
-        "item": 71,
         "nombre": "SERVILLETAS X200 UND",
         "cta_cont": 511020,
         "codigo": 5110200090,
@@ -852,7 +781,6 @@
         "visible": 1
     },
     {
-        "item": 72,
         "nombre": "VASO DESECHABLE DE CARTON 7OZ",
         "cta_cont": 511020,
         "codigo": 5110200100,
@@ -864,7 +792,6 @@
         "visible": 1
     },
     {
-        "item": 73,
         "nombre": "VASO DESECHABLE PLASTICO 7OZ",
         "cta_cont": 511020,
         "codigo": 5110200110,
@@ -876,7 +803,6 @@
         "visible": 1
     },
     {
-        "item": 74,
         "nombre": "BOLSA CAMBRE COOPSERP",
         "cta_cont": 511034,
         "codigo": 5110340010,
@@ -888,7 +814,6 @@
         "visible": 1
     },
     {
-        "item": 75,
         "nombre": "BOLSA tipoO TELA COOPSERP PARA 1",
         "cta_cont": 511034,
         "codigo": 5110340020,
@@ -900,7 +825,6 @@
         "visible": 1
     },
     {
-        "item": 76,
         "nombre": "BOLSA tipoO YUTE COOPSERP PARA 3",
         "cta_cont": 511034,
         "codigo": 5110340030,
@@ -912,7 +836,6 @@
         "visible": 1
     },
     {
-        "item": 77,
         "nombre": "CHUPETAS REDONDAS COOPSERP X 50UND",
         "cta_cont": 511034,
         "codigo": 5110340040,
@@ -924,7 +847,6 @@
         "visible": 1
     },
     {
-        "item": 78,
         "nombre": "CUADERNO ARGOLLADO COOPSERP",
         "cta_cont": 511034,
         "codigo": 5110340050,
@@ -936,7 +858,6 @@
         "visible": 1
     },
     {
-        "item": 79,
         "nombre": "GLOBOS CON LOGO COOPSERP COLORES SURTID",
         "cta_cont": 511034,
         "codigo": 5110340060,
@@ -948,7 +869,6 @@
         "visible": 1
     },
     {
-        "item": 80,
         "nombre": "LIBRETA COOPSERP EN CUERINA",
         "cta_cont": 511034,
         "codigo": 5110340070,
@@ -960,7 +880,6 @@
         "visible": 1
     },
     {
-        "item": 81,
         "nombre": "LIBRETAS COOPSERP",
         "cta_cont": 511034,
         "codigo": 5110340080,
@@ -972,7 +891,6 @@
         "visible": 1
     },
     {
-        "item": 82,
         "nombre": "MALETIN EJECUTIVO NEGRO LOGO COOPSERP",
         "cta_cont": 511034,
         "codigo": 5110340090,
@@ -984,7 +902,6 @@
         "visible": 1
     },
     {
-        "item": 83,
         "nombre": "MALETIN LOGO COOPSERP",
         "cta_cont": 511034,
         "codigo": 5110340100,
@@ -996,7 +913,6 @@
         "visible": 1
     },
     {
-        "item": 84,
         "nombre": "REGLAMENTO DE CREDITO",
         "cta_cont": 511034,
         "codigo": 5110340110,
@@ -1008,7 +924,6 @@
         "visible": 1
     },
     {
-        "item": 85,
         "nombre": "ACETATO BOLSILLO OFICIO X46 UND",
         "cta_cont": 511028,
         "codigo": 5110280010,
@@ -1020,7 +935,6 @@
         "visible": 1
     },
     {
-        "item": 86,
         "nombre": "ALMOHADILLA PARA SELLOS",
         "cta_cont": 511028,
         "codigo": 5110280020,
@@ -1032,7 +946,6 @@
         "visible": 1
     },
     {
-        "item": 87,
         "nombre": "BANDAS DE CAUCHO",
         "cta_cont": 511028,
         "codigo": 5110280030,
@@ -1044,7 +957,6 @@
         "visible": 1
     },
     {
-        "item": 88,
         "nombre": "BISTURI",
         "cta_cont": 511028,
         "codigo": 5110280040,
@@ -1056,7 +968,6 @@
         "visible": 1
     },
     {
-        "item": 89,
         "nombre": "BISTURI INDUSTRIAL METALICO",
         "cta_cont": 511028,
         "codigo": 5110280050,
@@ -1068,7 +979,6 @@
         "visible": 1
     },
     {
-        "item": 90,
         "nombre": "BISTURI METALICO DE PRECISION",
         "cta_cont": 511028,
         "codigo": 5110280060,
@@ -1080,7 +990,6 @@
         "visible": 1
     },
     {
-        "item": 91,
         "nombre": "BLOCK ANALISIS 3 COLpresentacionNAS",
         "cta_cont": 511028,
         "codigo": 5110280070,
@@ -1092,7 +1001,6 @@
         "visible": 1
     },
     {
-        "item": 92,
         "nombre": "BLOCK DE NOTAS CARTA- CUADRICULADO",
         "cta_cont": 511028,
         "codigo": 5110280080,
@@ -1104,7 +1012,6 @@
         "visible": 1
     },
     {
-        "item": 93,
         "nombre": "BLOCK LIBRETA DE APUNTES - LINEA EJECUT",
         "cta_cont": 511028,
         "codigo": 5110280090,
@@ -1116,7 +1023,6 @@
         "visible": 1
     },
     {
-        "item": 94,
         "nombre": "BOLSA COOPSERP OFICIO",
         "cta_cont": 511028,
         "codigo": 5110280100,
@@ -1128,7 +1034,6 @@
         "visible": 1
     },
     {
-        "item": 95,
         "nombre": "BOLSILLO PARA CD",
         "cta_cont": 511028,
         "codigo": 5110280110,
@@ -1140,7 +1045,6 @@
         "visible": 1
     },
     {
-        "item": 96,
         "nombre": "BORRADOR DE NATA",
         "cta_cont": 511028,
         "codigo": 5110280120,
@@ -1152,7 +1056,6 @@
         "visible": 1
     },
     {
-        "item": 97,
         "nombre": "BORRADOR DE TABLERO",
         "cta_cont": 511028,
         "codigo": 5110280130,
@@ -1164,7 +1067,6 @@
         "visible": 1
     },
     {
-        "item": 98,
         "nombre": "CAJA DE CHINCHES X50 UND",
         "cta_cont": 511028,
         "codigo": 5110280140,
@@ -1176,7 +1078,6 @@
         "visible": 1
     },
     {
-        "item": 99,
         "nombre": "CAJA FORMA CONTINUA 9 1/2 1 PARTE",
         "cta_cont": 511028,
         "codigo": 5110280150,
@@ -1188,7 +1089,6 @@
         "visible": 1
     },
     {
-        "item": 100,
         "nombre": "CAJA FORMA CONTINUA PARA LOTE",
         "cta_cont": 511028,
         "codigo": 5110280160,
@@ -1200,7 +1100,6 @@
         "visible": 1
     },
     {
-        "item": 101,
         "nombre": "CAJA PRINT FORMALOGO 9 1/2 X 5 1/2 2 PARTES",
         "cta_cont": 511028,
         "codigo": 5110280170,
@@ -1212,7 +1111,6 @@
         "visible": 1
     },
     {
-        "item": 102,
         "nombre": "CAJA ROTULIT 3\" X 1\" NORMA 200 UNIDS",
         "cta_cont": 511028,
         "codigo": 5110280180,
@@ -1224,7 +1122,6 @@
         "visible": 1
     },
     {
-        "item": 103,
         "nombre": "CAJA SOBREFLEX NOTIFICACION DE COBRO",
         "cta_cont": 511028,
         "codigo": 5110280190,
@@ -1236,7 +1133,6 @@
         "visible": 1
     },
     {
-        "item": 104,
         "nombre": "CAJA TRIPLE ACRILICA Y MADERA",
         "cta_cont": 511028,
         "codigo": 5110280200,
@@ -1248,7 +1144,6 @@
         "visible": 1
     },
     {
-        "item": 105,
         "nombre": "CARPETA AZ - TAMAÑO CARTA",
         "cta_cont": 511028,
         "codigo": 5110280210,
@@ -1260,7 +1155,6 @@
         "visible": 1
     },
     {
-        "item": 106,
         "nombre": "CARPETA AZ - TAMAÑO OFICIO",
         "cta_cont": 511028,
         "codigo": 5110280220,
@@ -1272,7 +1166,6 @@
         "visible": 1
     },
     {
-        "item": 107,
         "nombre": "CARPETA BLANCA DE 3 AROS",
         "cta_cont": 511028,
         "codigo": 5110280230,
@@ -1284,7 +1177,6 @@
         "visible": 1
     },
     {
-        "item": 108,
         "nombre": "CARPETA MALETIN PLASTICO CARTA",
         "cta_cont": 511028,
         "codigo": 5110280240,
@@ -1296,7 +1188,6 @@
         "visible": 1
     },
     {
-        "item": 109,
         "nombre": "CARPETA PLASTICA CON CAUCHO DE SEGURIDAD",
         "cta_cont": 511028,
         "codigo": 5110280250,
@@ -1308,7 +1199,6 @@
         "visible": 1
     },
     {
-        "item": 110,
         "nombre": "CARPETAS COOPSERP A DOS CUERPOS",
         "cta_cont": 511028,
         "codigo": 5110280260,
@@ -1320,7 +1210,6 @@
         "visible": 1
     },
     {
-        "item": 111,
         "nombre": "CARPETAS COOPSERP A TRES CUERPOS",
         "cta_cont": 511028,
         "codigo": 5110280270,
@@ -1332,7 +1221,6 @@
         "visible": 1
     },
     {
-        "item": 112,
         "nombre": "CARTULINA LEGAJADORA AMARILLA X 50UND",
         "cta_cont": 511028,
         "codigo": 5110280280,
@@ -1344,7 +1232,6 @@
         "visible": 1
     },
     {
-        "item": 113,
         "nombre": "CD RW",
         "cta_cont": 511028,
         "codigo": 5110280290,
@@ -1356,7 +1243,6 @@
         "visible": 1
     },
     {
-        "item": 114,
         "nombre": "CERA HUMEDECEDORA PARA CONTAR",
         "cta_cont": 511028,
         "codigo": 5110280300,
@@ -1368,7 +1254,6 @@
         "visible": 1
     },
     {
-        "item": 115,
         "nombre": "CHINCHES",
         "cta_cont": 511028,
         "codigo": 5110280310,
@@ -1380,7 +1265,6 @@
         "visible": 1
     },
     {
-        "item": 116,
         "nombre": "CINTA CORRECTOR",
         "cta_cont": 511028,
         "codigo": 5110280320,
@@ -1392,7 +1276,6 @@
         "visible": 1
     },
     {
-        "item": 117,
         "nombre": "CINTA DOBLE FAZ DELGADA",
         "cta_cont": 511028,
         "codigo": 5110280330,
@@ -1404,7 +1287,6 @@
         "visible": 1
     },
     {
-        "item": 118,
         "nombre": "CINTA DOBLE FAZ MEDIANA",
         "cta_cont": 511028,
         "codigo": 5110280340,
@@ -1416,7 +1298,6 @@
         "visible": 1
     },
     {
-        "item": 119,
         "nombre": "CINTA DOBLE FAZ PEQUEÑA",
         "cta_cont": 511028,
         "codigo": 5110280350,
@@ -1428,7 +1309,6 @@
         "visible": 1
     },
     {
-        "item": 120,
         "nombre": "COLBON PARA MADERA",
         "cta_cont": 511028,
         "codigo": 5110280360,
@@ -1440,7 +1320,6 @@
         "visible": 1
     },
     {
-        "item": 121,
         "nombre": "COMPROBANTE DE CAJA 13 ELEMENTO",
         "cta_cont": 511028,
         "codigo": 5110280370,
@@ -1452,7 +1331,6 @@
         "visible": 1
     },
     {
-        "item": 122,
         "nombre": "COMPROBANTE DE CAJA 30 CALI BC",
         "cta_cont": 511028,
         "codigo": 5110280380,
@@ -1464,7 +1342,6 @@
         "visible": 1
     },
     {
-        "item": 123,
         "nombre": "COMPROBANTE DE CAJA 31 CALI",
         "cta_cont": 511028,
         "codigo": 5110280390,
@@ -1476,7 +1353,6 @@
         "visible": 1
     },
     {
-        "item": 124,
         "nombre": "COMPROBANTE DE CAJA 32 PALMIRA",
         "cta_cont": 511028,
         "codigo": 5110280400,
@@ -1488,7 +1364,6 @@
         "visible": 1
     },
     {
-        "item": 125,
         "nombre": "COMPROBANTE DE CAJA 33 BTURA",
         "cta_cont": 511028,
         "codigo": 5110280410,
@@ -1500,7 +1375,6 @@
         "visible": 1
     },
     {
-        "item": 126,
         "nombre": "COMPROBANTE DE CAJA 34 BUGA",
         "cta_cont": 511028,
         "codigo": 5110280420,
@@ -1512,7 +1386,6 @@
         "visible": 1
     },
     {
-        "item": 127,
         "nombre": "COMPROBANTE DE CAJA 35 TULUA",
         "cta_cont": 511028,
         "codigo": 5110280430,
@@ -1524,7 +1397,6 @@
         "visible": 1
     },
     {
-        "item": 128,
         "nombre": "COMPROBANTE DE CAJA 36 SEVILLA",
         "cta_cont": 511028,
         "codigo": 5110280440,
@@ -1536,7 +1408,6 @@
         "visible": 1
     },
     {
-        "item": 129,
         "nombre": "COMPROBANTE DE CAJA 37 LA UNION",
         "cta_cont": 511028,
         "codigo": 5110280450,
@@ -1548,7 +1419,6 @@
         "visible": 1
     },
     {
-        "item": 130,
         "nombre": "COMPROBANTE DE CAJA 38 ROLDANILLO",
         "cta_cont": 511028,
         "codigo": 5110280460,
@@ -1560,7 +1430,6 @@
         "visible": 1
     },
     {
-        "item": 131,
         "nombre": "COMPROBANTE DE CAJA 39 CARTAGO",
         "cta_cont": 511028,
         "codigo": 5110280470,
@@ -1572,7 +1441,6 @@
         "visible": 1
     },
     {
-        "item": 132,
         "nombre": "COMPROBANTE DE CAJA 40 ZARZAL",
         "cta_cont": 511028,
         "codigo": 5110280480,
@@ -1584,7 +1452,6 @@
         "visible": 1
     },
     {
-        "item": 133,
         "nombre": "COMPROBANTE DE CAJA 41 CAICEDONIA",
         "cta_cont": 511028,
         "codigo": 5110280490,
@@ -1596,7 +1463,6 @@
         "visible": 1
     },
     {
-        "item": 134,
         "nombre": "COMPROBANTE DE CAJA 42 STANDER QUILICHA",
         "cta_cont": 511028,
         "codigo": 5110280500,
@@ -1608,7 +1474,6 @@
         "visible": 1
     },
     {
-        "item": 135,
         "nombre": "COMPROBANTE DE CAJA 43 YUMBO",
         "cta_cont": 511028,
         "codigo": 5110280510,
@@ -1620,7 +1485,6 @@
         "visible": 1
     },
     {
-        "item": 136,
         "nombre": "COMPROBANTE DE CAJA 44 JAMUNDI",
         "cta_cont": 511028,
         "codigo": 5110280520,
@@ -1632,7 +1496,6 @@
         "visible": 1
     },
     {
-        "item": 137,
         "nombre": "COMPROBANTE DE CAJA 45 PASTO",
         "cta_cont": 511028,
         "codigo": 5110280530,
@@ -1644,7 +1507,6 @@
         "visible": 1
     },
     {
-        "item": 138,
         "nombre": "COMPROBANTE DE CAJA 46 POPAYAN",
         "cta_cont": 511028,
         "codigo": 5110280540,
@@ -1656,7 +1518,6 @@
         "visible": 1
     },
     {
-        "item": 139,
         "nombre": "COMPROBANTE DE CAJA 47 IPIALES",
         "cta_cont": 511028,
         "codigo": 5110280550,
@@ -1668,7 +1529,6 @@
         "visible": 1
     },
     {
-        "item": 140,
         "nombre": "COMPROBANTE DE CAJA 48 LETICIA",
         "cta_cont": 511028,
         "codigo": 5110280560,
@@ -1680,7 +1540,6 @@
         "visible": 1
     },
     {
-        "item": 141,
         "nombre": "COMPROBANTE DE CAJA 68 SOACHA",
         "cta_cont": 511028,
         "codigo": 5110280570,
@@ -1692,7 +1551,6 @@
         "visible": 1
     },
     {
-        "item": 142,
         "nombre": "COMPROBANTE DE CAJA 70 MANIZALES",
         "cta_cont": 511028,
         "codigo": 5110280580,
@@ -1704,7 +1562,6 @@
         "visible": 1
     },
     {
-        "item": 143,
         "nombre": "COMPROBANTE DE CAJA 73 ZIPAQUIRA",
         "cta_cont": 511028,
         "codigo": 5110280590,
@@ -1716,7 +1573,6 @@
         "visible": 1
     },
     {
-        "item": 144,
         "nombre": "COMPROBANTE DE CAJA 74 PEREIRA",
         "cta_cont": 511028,
         "codigo": 5110280600,
@@ -1728,7 +1584,6 @@
         "visible": 1
     },
     {
-        "item": 145,
         "nombre": "COMPROBANTE DE CAJA 76 GIRARDOT",
         "cta_cont": 511028,
         "codigo": 5110280610,
@@ -1740,7 +1595,6 @@
         "visible": 1
     },
     {
-        "item": 146,
         "nombre": "COMPROBANTE DE CAJA 77 SAN ANDRES",
         "cta_cont": 511028,
         "codigo": 5110280620,
@@ -1752,7 +1606,6 @@
         "visible": 1
     },
     {
-        "item": 147,
         "nombre": "COMPROBANTE DE CAJA 78 ARMENIA",
         "cta_cont": 511028,
         "codigo": 5110280630,
@@ -1764,7 +1617,6 @@
         "visible": 1
     },
     {
-        "item": 148,
         "nombre": "COMPROBANTE DE CAJA 80 MEDELLIN",
         "cta_cont": 511028,
         "codigo": 5110280640,
@@ -1776,7 +1628,6 @@
         "visible": 1
     },
     {
-        "item": 149,
         "nombre": "COMPROBANTE DE CAJA 81 MONTERIA",
         "cta_cont": 511028,
         "codigo": 5110280650,
@@ -1788,7 +1639,6 @@
         "visible": 1
     },
     {
-        "item": 150,
         "nombre": "COMPROBANTE DE CAJA 82 SINCELEJO",
         "cta_cont": 511028,
         "codigo": 5110280660,
@@ -1800,7 +1650,6 @@
         "visible": 1
     },
     {
-        "item": 151,
         "nombre": "COMPROBANTE DE CAJA 83 YOPAL",
         "cta_cont": 511028,
         "codigo": 5110280670,
@@ -1812,7 +1661,6 @@
         "visible": 1
     },
     {
-        "item": 152,
         "nombre": "COMPROBANTE DE CAJA 84 RIOHACHA",
         "cta_cont": 511028,
         "codigo": 5110280680,
@@ -1824,7 +1672,6 @@
         "visible": 1
     },
     {
-        "item": 153,
         "nombre": "COMPROBANTE DE CAJA 85 VALLEDUPAR",
         "cta_cont": 511028,
         "codigo": 5110280690,
@@ -1836,7 +1683,6 @@
         "visible": 1
     },
     {
-        "item": 154,
         "nombre": "COMPROBANTE DE CAJA 86 CARTAGENA",
         "cta_cont": 511028,
         "codigo": 5110280700,
@@ -1848,7 +1694,6 @@
         "visible": 1
     },
     {
-        "item": 155,
         "nombre": "COMPROBANTE DE CAJA 87 BARRANQUILLA",
         "cta_cont": 511028,
         "codigo": 5110280710,
@@ -1860,7 +1705,6 @@
         "visible": 1
     },
     {
-        "item": 156,
         "nombre": "COMPROBANTE DE CAJA 88 SANTA MARTA",
         "cta_cont": 511028,
         "codigo": 5110280720,
@@ -1872,7 +1716,6 @@
         "visible": 1
     },
     {
-        "item": 157,
         "nombre": "COMPROBANTE DE CAJA 89 DUITAMA",
         "cta_cont": 511028,
         "codigo": 5110280730,
@@ -1884,7 +1727,6 @@
         "visible": 1
     },
     {
-        "item": 158,
         "nombre": "COMPROBANTE DE CAJA 90 BOGOTA CENTRO",
         "cta_cont": 511028,
         "codigo": 5110280740,
@@ -1896,7 +1738,6 @@
         "visible": 1
     },
     {
-        "item": 159,
         "nombre": "COMPROBANTE DE CAJA 91 BOGOTA TORRE CEN",
         "cta_cont": 511028,
         "codigo": 5110280750,
@@ -1908,7 +1749,6 @@
         "visible": 1
     },
     {
-        "item": 160,
         "nombre": "COMPROBANTE DE CAJA 92 BOGOTA NORTE",
         "cta_cont": 511028,
         "codigo": 5110280760,
@@ -1920,7 +1760,6 @@
         "visible": 1
     },
     {
-        "item": 161,
         "nombre": "COMPROBANTE DE CAJA 93 VILLAVICENCIO",
         "cta_cont": 511028,
         "codigo": 5110280770,
@@ -1932,7 +1771,6 @@
         "visible": 1
     },
     {
-        "item": 162,
         "nombre": "COMPROBANTE DE CAJA 94 TUNJA",
         "cta_cont": 511028,
         "codigo": 5110280780,
@@ -1944,7 +1782,6 @@
         "visible": 1
     },
     {
-        "item": 163,
         "nombre": "COMPROBANTE DE CAJA 95 IBAGUE",
         "cta_cont": 511028,
         "codigo": 5110280790,
@@ -1956,7 +1793,6 @@
         "visible": 1
     },
     {
-        "item": 164,
         "nombre": "COMPROBANTE DE CAJA 96 NEIVA",
         "cta_cont": 511028,
         "codigo": 5110280800,
@@ -1968,7 +1804,6 @@
         "visible": 1
     },
     {
-        "item": 165,
         "nombre": "COMPROBANTE DE CAJA 97 BUCARAMANGA",
         "cta_cont": 511028,
         "codigo": 5110280810,
@@ -1980,7 +1815,6 @@
         "visible": 1
     },
     {
-        "item": 166,
         "nombre": "COMPROBANTE DE CAJA 98 CUCUTA",
         "cta_cont": 511028,
         "codigo": 5110280820,
@@ -1992,7 +1826,6 @@
         "visible": 1
     },
     {
-        "item": 167,
         "nombre": "CUADERNO ARGOLLADO",
         "cta_cont": 511028,
         "codigo": 5110280830,
@@ -2004,7 +1837,6 @@
         "visible": 1
     },
     {
-        "item": 168,
         "nombre": "DIRECTORIO TELEFONICO COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110280840,
@@ -2016,7 +1848,6 @@
         "visible": 1
     },
     {
-        "item": 169,
         "nombre": "DVD RW",
         "cta_cont": 511028,
         "codigo": 5110280850,
@@ -2028,7 +1859,6 @@
         "visible": 1
     },
     {
-        "item": 170,
         "nombre": "ESCALIMETROS",
         "cta_cont": 511028,
         "codigo": 5110280860,
@@ -2040,7 +1870,6 @@
         "visible": 1
     },
     {
-        "item": 171,
         "nombre": "FORMATO ACTUALIZACION DE DATOS",
         "cta_cont": 511028,
         "codigo": 5110280870,
@@ -2052,7 +1881,6 @@
         "visible": 1
     },
     {
-        "item": 172,
         "nombre": "GANCHO CLIP MARIPOSA GRANDES X 12UND",
         "cta_cont": 511028,
         "codigo": 5110280880,
@@ -2064,7 +1892,6 @@
         "visible": 1
     },
     {
-        "item": 173,
         "nombre": "GANCHO CLIP MARIPOSA MEDIANO X 50UND",
         "cta_cont": 511028,
         "codigo": 5110280890,
@@ -2076,7 +1903,6 @@
         "visible": 1
     },
     {
-        "item": 174,
         "nombre": "GANCHO CLIP PEQUENO X 100UND",
         "cta_cont": 511028,
         "codigo": 5110280900,
@@ -2088,7 +1914,6 @@
         "visible": 1
     },
     {
-        "item": 175,
         "nombre": "GANCHO CLIP PEQUENO X 50UND",
         "cta_cont": 511028,
         "codigo": 5110280910,
@@ -2100,7 +1925,6 @@
         "visible": 1
     },
     {
-        "item": 176,
         "nombre": "GANCHO COSEDORA INDUSTRIAL categoriaAPA",
         "cta_cont": 511028,
         "codigo": 5110280920,
@@ -2112,7 +1936,6 @@
         "visible": 1
     },
     {
-        "item": 177,
         "nombre": "GANCHO COSEDORA X 5000UND",
         "cta_cont": 511028,
         "codigo": 5110280930,
@@ -2124,7 +1947,6 @@
         "visible": 1
     },
     {
-        "item": 178,
         "nombre": "GANCHO PARA LEGAJAR METALICO X 20UND",
         "cta_cont": 511028,
         "codigo": 5110280940,
@@ -2136,7 +1958,6 @@
         "visible": 1
     },
     {
-        "item": 179,
         "nombre": "GANCHO PARA LEGAJAR PLASTICO X 20UND",
         "cta_cont": 511028,
         "codigo": 5110280950,
@@ -2148,7 +1969,6 @@
         "visible": 1
     },
     {
-        "item": 180,
         "nombre": "GRAPADORA MEDIA TIRA X 20 HOJAS",
         "cta_cont": 511028,
         "codigo": 5110280960,
@@ -2160,7 +1980,6 @@
         "visible": 1
     },
     {
-        "item": 181,
         "nombre": "GRAPADORA TIRA COMPLETA X 20 HOJAS",
         "cta_cont": 511028,
         "codigo": 5110280970,
@@ -2172,7 +1991,6 @@
         "visible": 1
     },
     {
-        "item": 182,
         "nombre": "GRAPADORA TIRA COMPLETA X 25 HOJAS",
         "cta_cont": 511028,
         "codigo": 5110280980,
@@ -2184,7 +2002,6 @@
         "visible": 1
     },
     {
-        "item": 183,
         "nombre": "GUIAS MARBETES GRANDES X190UND",
         "cta_cont": 511028,
         "codigo": 5110280990,
@@ -2196,7 +2013,6 @@
         "visible": 1
     },
     {
-        "item": 184,
         "nombre": "GUIAS MARBETES PEQUENOS X100UND",
         "cta_cont": 511028,
         "codigo": 5110281000,
@@ -2208,7 +2024,6 @@
         "visible": 1
     },
     {
-        "item": 185,
         "nombre": "GUIAS PARA CARPETAS CELUGUIA",
         "cta_cont": 511028,
         "codigo": 5110281010,
@@ -2220,7 +2035,6 @@
         "visible": 1
     },
     {
-        "item": 186,
         "nombre": "HOJAS 4 PARTES PERFORADAS DECLARACION",
         "cta_cont": 511028,
         "codigo": 5110281020,
@@ -2232,7 +2046,6 @@
         "visible": 1
     },
     {
-        "item": 187,
         "nombre": "HUELLERO DACTILAR TESPECO",
         "cta_cont": 511028,
         "codigo": 5110281030,
@@ -2244,7 +2057,6 @@
         "visible": 1
     },
     {
-        "item": 188,
         "nombre": "JUEGO GEOMETRICO X 4 UND",
         "cta_cont": 511028,
         "codigo": 5110281040,
@@ -2256,7 +2068,6 @@
         "visible": 1
     },
     {
-        "item": 189,
         "nombre": "LAPICERO COLOR AZUL",
         "cta_cont": 511028,
         "codigo": 5110281050,
@@ -2268,7 +2079,6 @@
         "visible": 1
     },
     {
-        "item": 190,
         "nombre": "LAPICERO COLOR NEGRO",
         "cta_cont": 511028,
         "codigo": 5110281060,
@@ -2280,7 +2090,6 @@
         "visible": 1
     },
     {
-        "item": 191,
         "nombre": "LAPICERO COLOR ROJO",
         "cta_cont": 511028,
         "codigo": 5110281070,
@@ -2292,7 +2101,6 @@
         "visible": 1
     },
     {
-        "item": 192,
         "nombre": "LAPICERO GEL NEGRO",
         "cta_cont": 511028,
         "codigo": 5110281080,
@@ -2304,7 +2112,6 @@
         "visible": 1
     },
     {
-        "item": 193,
         "nombre": "LAPICERO LOGO COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281090,
@@ -2316,7 +2123,6 @@
         "visible": 1
     },
     {
-        "item": 194,
         "nombre": "LAPICERO LOGO COOPSERP FINO",
         "cta_cont": 511028,
         "codigo": 5110281100,
@@ -2328,7 +2134,6 @@
         "visible": 1
     },
     {
-        "item": 195,
         "nombre": "LAPIZ 2B",
         "cta_cont": 511028,
         "codigo": 5110281110,
@@ -2340,7 +2145,6 @@
         "visible": 1
     },
     {
-        "item": 196,
         "nombre": "LAPIZ 4B",
         "cta_cont": 511028,
         "codigo": 5110281120,
@@ -2352,7 +2156,6 @@
         "visible": 1
     },
     {
-        "item": 197,
         "nombre": "LAPIZ COLOR ROJO",
         "cta_cont": 511028,
         "codigo": 5110281130,
@@ -2364,7 +2167,6 @@
         "visible": 1
     },
     {
-        "item": 198,
         "nombre": "LAPIZ MIRADO No2",
         "cta_cont": 511028,
         "codigo": 5110281140,
@@ -2376,7 +2178,6 @@
         "visible": 1
     },
     {
-        "item": 199,
         "nombre": "LAPIZ PORTAMINAS 0.5",
         "cta_cont": 511028,
         "codigo": 5110281150,
@@ -2388,7 +2189,6 @@
         "visible": 1
     },
     {
-        "item": 200,
         "nombre": "LAPIZ PORTAMINAS 0.7",
         "cta_cont": 511028,
         "codigo": 5110281160,
@@ -2400,7 +2200,6 @@
         "visible": 1
     },
     {
-        "item": 201,
         "nombre": "LEGAJADOR COLGANTE",
         "cta_cont": 511028,
         "codigo": 5110281170,
@@ -2412,7 +2211,6 @@
         "visible": 1
     },
     {
-        "item": 202,
         "nombre": "LEGAJADOR HORIZONTAL OFICIO",
         "cta_cont": 511028,
         "codigo": 5110281180,
@@ -2424,7 +2222,6 @@
         "visible": 1
     },
     {
-        "item": 203,
         "nombre": "LEGAJADOR PLASTICO JURIDICO",
         "cta_cont": 511028,
         "codigo": 5110281190,
@@ -2436,7 +2233,6 @@
         "visible": 1
     },
     {
-        "item": 204,
         "nombre": "LEGAJADOR VERTICAL OFICIO",
         "cta_cont": 511028,
         "codigo": 5110281200,
@@ -2448,7 +2244,6 @@
         "visible": 1
     },
     {
-        "item": 205,
         "nombre": "LIBRO DE ACTAS 400 FOLIOS",
         "cta_cont": 511028,
         "codigo": 5110281210,
@@ -2460,7 +2255,6 @@
         "visible": 1
     },
     {
-        "item": 206,
         "nombre": "LIQUID PAPER",
         "cta_cont": 511028,
         "codigo": 5110281220,
@@ -2472,7 +2266,6 @@
         "visible": 1
     },
     {
-        "item": 207,
         "nombre": "MARCADOR BORRABLE COLORES SURTIDOS",
         "cta_cont": 511028,
         "codigo": 5110281230,
@@ -2484,7 +2277,6 @@
         "visible": 1
     },
     {
-        "item": 208,
         "nombre": "MARCADOR categoriaAFICO DORICOLOR",
         "cta_cont": 511028,
         "codigo": 5110281240,
@@ -2496,7 +2288,6 @@
         "visible": 1
     },
     {
-        "item": 209,
         "nombre": "MARCADOR PERMANENTE PUNTA GRUESA",
         "cta_cont": 511028,
         "codigo": 5110281250,
@@ -2508,7 +2299,6 @@
         "visible": 1
     },
     {
-        "item": 210,
         "nombre": "MARCADOR SHARPIE",
         "cta_cont": 511028,
         "codigo": 5110281260,
@@ -2520,7 +2310,6 @@
         "visible": 1
     },
     {
-        "item": 211,
         "nombre": "MICROPUNTA NEGRO",
         "cta_cont": 511028,
         "codigo": 5110281270,
@@ -2532,7 +2321,6 @@
         "visible": 1
     },
     {
-        "item": 212,
         "nombre": "MINI AGENDA KIUT",
         "cta_cont": 511028,
         "codigo": 5110281280,
@@ -2544,7 +2332,6 @@
         "visible": 1
     },
     {
-        "item": 213,
         "nombre": "MINILIBRETAS COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281290,
@@ -2556,7 +2343,6 @@
         "visible": 1
     },
     {
-        "item": 214,
         "nombre": "ORGANIZADOR PAPELERA METALICO MESH",
         "cta_cont": 511028,
         "codigo": 5110281300,
@@ -2568,7 +2354,6 @@
         "visible": 1
     },
     {
-        "item": 215,
         "nombre": "PAPEL CALCO O MANTEQUILLA",
         "cta_cont": 511028,
         "codigo": 5110281310,
@@ -2580,7 +2365,6 @@
         "visible": 1
     },
     {
-        "item": 216,
         "nombre": "PAPELERA DE ESCRITORIO MALLA NEGRA",
         "cta_cont": 511028,
         "codigo": 5110281320,
@@ -2592,7 +2376,6 @@
         "visible": 1
     },
     {
-        "item": 217,
         "nombre": "PEGASTICK X40GR",
         "cta_cont": 511028,
         "codigo": 5110281330,
@@ -2604,7 +2387,6 @@
         "visible": 1
     },
     {
-        "item": 218,
         "nombre": "PERFORADORA",
         "cta_cont": 511028,
         "codigo": 5110281340,
@@ -2616,7 +2398,6 @@
         "visible": 1
     },
     {
-        "item": 219,
         "nombre": "PESTAÑAS PLASTICAS",
         "cta_cont": 511028,
         "codigo": 5110281350,
@@ -2628,7 +2409,6 @@
         "visible": 1
     },
     {
-        "item": 220,
         "nombre": "PILA AA",
         "cta_cont": 511028,
         "codigo": 5110281360,
@@ -2640,7 +2420,6 @@
         "visible": 1
     },
     {
-        "item": 221,
         "nombre": "PILA AAA",
         "cta_cont": 511028,
         "codigo": 5110281370,
@@ -2652,7 +2431,6 @@
         "visible": 1
     },
     {
-        "item": 222,
         "nombre": "PISTOLA SILICONA MEDIANA",
         "cta_cont": 511028,
         "codigo": 5110281380,
@@ -2664,7 +2442,6 @@
         "visible": 1
     },
     {
-        "item": 223,
         "nombre": "PORTA LAPICERO",
         "cta_cont": 511028,
         "codigo": 5110281390,
@@ -2676,7 +2453,6 @@
         "visible": 1
     },
     {
-        "item": 224,
         "nombre": "REGLA METALICA 30CM",
         "cta_cont": 511028,
         "codigo": 5110281400,
@@ -2688,7 +2464,6 @@
         "visible": 1
     },
     {
-        "item": 225,
         "nombre": "REGLA PLASTICA 30CM",
         "cta_cont": 511028,
         "codigo": 5110281410,
@@ -2700,7 +2475,6 @@
         "visible": 1
     },
     {
-        "item": 226,
         "nombre": "REPUESTO MINAS 0.5 PORTAMINAS",
         "cta_cont": 511028,
         "codigo": 5110281420,
@@ -2712,7 +2486,6 @@
         "visible": 1
     },
     {
-        "item": 227,
         "nombre": "REPUESTO MINAS 0.7 PORTAMINAS",
         "cta_cont": 511028,
         "codigo": 5110281430,
@@ -2724,7 +2497,6 @@
         "visible": 1
     },
     {
-        "item": 228,
         "nombre": "REPUESTO PARA BISTURI",
         "cta_cont": 511028,
         "codigo": 5110281440,
@@ -2736,7 +2508,6 @@
         "visible": 1
     },
     {
-        "item": 229,
         "nombre": "RESALTADOR COLORES SURTIDOS",
         "cta_cont": 511028,
         "codigo": 5110281450,
@@ -2748,7 +2519,6 @@
         "visible": 1
     },
     {
-        "item": 230,
         "nombre": "RESMA CARTA CONSEJO",
         "cta_cont": 511028,
         "codigo": 5110281460,
@@ -2760,7 +2530,6 @@
         "visible": 1
     },
     {
-        "item": 231,
         "nombre": "RESMA CARTA COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281470,
@@ -2772,7 +2541,6 @@
         "visible": 1
     },
     {
-        "item": 232,
         "nombre": "RESMA OFICIO COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281480,
@@ -2784,7 +2552,6 @@
         "visible": 1
     },
     {
-        "item": 233,
         "nombre": "RESMA PAPEL TAMAÑO CARTA",
         "cta_cont": 511028,
         "codigo": 5110281490,
@@ -2796,7 +2563,6 @@
         "visible": 1
     },
     {
-        "item": 234,
         "nombre": "RESMA PAPEL TAMAÑO OFICIO",
         "cta_cont": 511028,
         "codigo": 5110281500,
@@ -2808,7 +2574,6 @@
         "visible": 1
     },
     {
-        "item": 235,
         "nombre": "ROLLO CINTA ADHESIVA LOGO COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281510,
@@ -2820,7 +2585,6 @@
         "visible": 1
     },
     {
-        "item": 236,
         "nombre": "ROLLO CINTA ADHESIVA TRANSPARENTE",
         "cta_cont": 511028,
         "codigo": 5110281520,
@@ -2832,7 +2596,6 @@
         "visible": 1
     },
     {
-        "item": 237,
         "nombre": "ROLLO CINTA DE ENMASCARAR",
         "cta_cont": 511028,
         "codigo": 5110281530,
@@ -2844,7 +2607,6 @@
         "visible": 1
     },
     {
-        "item": 238,
         "nombre": "ROLLO CINTA MAGICA PARA CHEQUE",
         "cta_cont": 511028,
         "codigo": 5110281540,
@@ -2856,7 +2618,6 @@
         "visible": 1
     },
     {
-        "item": 239,
         "nombre": "ROLLO CINTA TRANSPARENTE DELGADA",
         "cta_cont": 511028,
         "codigo": 5110281550,
@@ -2868,7 +2629,6 @@
         "visible": 1
     },
     {
-        "item": 240,
         "nombre": "ROLLO CINTA TRANSPARENTE GRUESA",
         "cta_cont": 511028,
         "codigo": 5110281560,
@@ -2880,7 +2640,6 @@
         "visible": 1
     },
     {
-        "item": 241,
         "nombre": "ROLLO STRETCH POLIFILM NEGRO GRANDES",
         "cta_cont": 511028,
         "codigo": 5110281570,
@@ -2892,7 +2651,6 @@
         "visible": 1
     },
     {
-        "item": 242,
         "nombre": "ROLLO STRETCH POLIFILM NEGRO PEQUEÑO",
         "cta_cont": 511028,
         "codigo": 5110281580,
@@ -2904,7 +2662,6 @@
         "visible": 1
     },
     {
-        "item": 243,
         "nombre": "ROLLO STRETCH TRANSPARENTE GRANDES",
         "cta_cont": 511028,
         "codigo": 5110281590,
@@ -2916,7 +2673,6 @@
         "visible": 1
     },
     {
-        "item": 244,
         "nombre": "ROLLO STRETCH TRANSPARENTE PEQUEÑO",
         "cta_cont": 511028,
         "codigo": 5110281600,
@@ -2928,7 +2684,6 @@
         "visible": 1
     },
     {
-        "item": 245,
         "nombre": "ROTULO ADHESIVO BLANCO X 128UND",
         "cta_cont": 511028,
         "codigo": 5110281610,
@@ -2940,7 +2695,6 @@
         "visible": 1
     },
     {
-        "item": 246,
         "nombre": "SACAGANCHOS",
         "cta_cont": 511028,
         "codigo": 5110281620,
@@ -2952,7 +2706,6 @@
         "visible": 1
     },
     {
-        "item": 247,
         "nombre": "SACAPUNTA FINO",
         "cta_cont": 511028,
         "codigo": 5110281630,
@@ -2964,7 +2717,6 @@
         "visible": 1
     },
     {
-        "item": 248,
         "nombre": "SACAPUNTA METALICO",
         "cta_cont": 511028,
         "codigo": 5110281640,
@@ -2976,7 +2728,6 @@
         "visible": 1
     },
     {
-        "item": 249,
         "nombre": "SEPARADOR DE CARTULINA CARTA X5UND",
         "cta_cont": 511028,
         "codigo": 5110281650,
@@ -2988,7 +2739,6 @@
         "visible": 1
     },
     {
-        "item": 250,
         "nombre": "SILICONA EN BARRA",
         "cta_cont": 511028,
         "codigo": 5110281660,
@@ -3000,7 +2750,6 @@
         "visible": 1
     },
     {
-        "item": 251,
         "nombre": "SOBRE CORRESPONDENCIA LOGO COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281670,
@@ -3012,7 +2761,6 @@
         "visible": 1
     },
     {
-        "item": 252,
         "nombre": "SOBRE DE MANILA CARTA",
         "cta_cont": 511028,
         "codigo": 5110281680,
@@ -3024,7 +2772,6 @@
         "visible": 1
     },
     {
-        "item": 253,
         "nombre": "SOBRE DE MANILA OFICIO",
         "cta_cont": 511028,
         "codigo": 5110281690,
@@ -3036,7 +2783,6 @@
         "visible": 1
     },
     {
-        "item": 254,
         "nombre": "SOBRE DE MANILA PAGO",
         "cta_cont": 511028,
         "codigo": 5110281700,
@@ -3048,7 +2794,6 @@
         "visible": 1
     },
     {
-        "item": 255,
         "nombre": "SOBRE DE MANILA RADIOGRAFIA",
         "cta_cont": 511028,
         "codigo": 5110281710,
@@ -3060,7 +2805,6 @@
         "visible": 1
     },
     {
-        "item": 256,
         "nombre": "SOBRE MEMBRETEADO CARTA COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281720,
@@ -3072,7 +2816,6 @@
         "visible": 1
     },
     {
-        "item": 257,
         "nombre": "SOBRE MEMBRETEADO OFICIO COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110281730,
@@ -3084,7 +2827,6 @@
         "visible": 1
     },
     {
-        "item": 258,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 13",
         "cta_cont": 511028,
         "codigo": 5110281740,
@@ -3096,7 +2838,6 @@
         "visible": 1
     },
     {
-        "item": 259,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 30",
         "cta_cont": 511028,
         "codigo": 5110281750,
@@ -3108,7 +2849,6 @@
         "visible": 1
     },
     {
-        "item": 260,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 31",
         "cta_cont": 511028,
         "codigo": 5110281760,
@@ -3120,7 +2860,6 @@
         "visible": 1
     },
     {
-        "item": 261,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 32",
         "cta_cont": 511028,
         "codigo": 5110281770,
@@ -3132,7 +2871,6 @@
         "visible": 1
     },
     {
-        "item": 262,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 33",
         "cta_cont": 511028,
         "codigo": 5110281780,
@@ -3144,7 +2882,6 @@
         "visible": 1
     },
     {
-        "item": 263,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 34",
         "cta_cont": 511028,
         "codigo": 5110281790,
@@ -3156,7 +2893,6 @@
         "visible": 1
     },
     {
-        "item": 264,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 35",
         "cta_cont": 511028,
         "codigo": 5110281800,
@@ -3168,7 +2904,6 @@
         "visible": 1
     },
     {
-        "item": 265,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 36",
         "cta_cont": 511028,
         "codigo": 5110281810,
@@ -3180,7 +2915,6 @@
         "visible": 1
     },
     {
-        "item": 266,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 37",
         "cta_cont": 511028,
         "codigo": 5110281820,
@@ -3192,7 +2926,6 @@
         "visible": 1
     },
     {
-        "item": 267,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 38",
         "cta_cont": 511028,
         "codigo": 5110281830,
@@ -3204,7 +2937,6 @@
         "visible": 1
     },
     {
-        "item": 268,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 39",
         "cta_cont": 511028,
         "codigo": 5110281840,
@@ -3216,7 +2948,6 @@
         "visible": 1
     },
     {
-        "item": 269,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 40",
         "cta_cont": 511028,
         "codigo": 5110281850,
@@ -3228,7 +2959,6 @@
         "visible": 1
     },
     {
-        "item": 270,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 41",
         "cta_cont": 511028,
         "codigo": 5110281860,
@@ -3240,7 +2970,6 @@
         "visible": 1
     },
     {
-        "item": 271,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 42",
         "cta_cont": 511028,
         "codigo": 5110281870,
@@ -3252,7 +2981,6 @@
         "visible": 1
     },
     {
-        "item": 272,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 43",
         "cta_cont": 511028,
         "codigo": 5110281880,
@@ -3264,7 +2992,6 @@
         "visible": 1
     },
     {
-        "item": 273,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 44",
         "cta_cont": 511028,
         "codigo": 5110281890,
@@ -3276,7 +3003,6 @@
         "visible": 1
     },
     {
-        "item": 274,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 45",
         "cta_cont": 511028,
         "codigo": 5110281900,
@@ -3288,7 +3014,6 @@
         "visible": 1
     },
     {
-        "item": 275,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 46",
         "cta_cont": 511028,
         "codigo": 5110281910,
@@ -3300,7 +3025,6 @@
         "visible": 1
     },
     {
-        "item": 276,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 47",
         "cta_cont": 511028,
         "codigo": 5110281920,
@@ -3312,7 +3036,6 @@
         "visible": 1
     },
     {
-        "item": 277,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 48",
         "cta_cont": 511028,
         "codigo": 5110281930,
@@ -3324,7 +3047,6 @@
         "visible": 1
     },
     {
-        "item": 278,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 68",
         "cta_cont": 511028,
         "codigo": 5110281940,
@@ -3336,7 +3058,6 @@
         "visible": 1
     },
     {
-        "item": 279,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 70",
         "cta_cont": 511028,
         "codigo": 5110281950,
@@ -3348,7 +3069,6 @@
         "visible": 1
     },
     {
-        "item": 280,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 73",
         "cta_cont": 511028,
         "codigo": 5110281960,
@@ -3360,7 +3080,6 @@
         "visible": 1
     },
     {
-        "item": 281,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 74",
         "cta_cont": 511028,
         "codigo": 5110281970,
@@ -3372,7 +3091,6 @@
         "visible": 1
     },
     {
-        "item": 282,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 76",
         "cta_cont": 511028,
         "codigo": 5110281980,
@@ -3384,7 +3102,6 @@
         "visible": 1
     },
     {
-        "item": 283,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 77",
         "cta_cont": 511028,
         "codigo": 5110281990,
@@ -3396,7 +3113,6 @@
         "visible": 1
     },
     {
-        "item": 284,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 78",
         "cta_cont": 511028,
         "codigo": 5110282000,
@@ -3408,7 +3124,6 @@
         "visible": 1
     },
     {
-        "item": 285,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 80",
         "cta_cont": 511028,
         "codigo": 5110282010,
@@ -3420,7 +3135,6 @@
         "visible": 1
     },
     {
-        "item": 286,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 81",
         "cta_cont": 511028,
         "codigo": 5110282020,
@@ -3432,7 +3146,6 @@
         "visible": 1
     },
     {
-        "item": 287,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 82",
         "cta_cont": 511028,
         "codigo": 5110282030,
@@ -3444,7 +3157,6 @@
         "visible": 1
     },
     {
-        "item": 288,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 83",
         "cta_cont": 511028,
         "codigo": 5110282040,
@@ -3456,7 +3168,6 @@
         "visible": 1
     },
     {
-        "item": 289,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 84",
         "cta_cont": 511028,
         "codigo": 5110282050,
@@ -3468,7 +3179,6 @@
         "visible": 1
     },
     {
-        "item": 290,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 85",
         "cta_cont": 511028,
         "codigo": 5110282060,
@@ -3480,7 +3190,6 @@
         "visible": 1
     },
     {
-        "item": 291,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 86",
         "cta_cont": 511028,
         "codigo": 5110282070,
@@ -3492,7 +3201,6 @@
         "visible": 1
     },
     {
-        "item": 292,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 87",
         "cta_cont": 511028,
         "codigo": 5110282080,
@@ -3504,7 +3212,6 @@
         "visible": 1
     },
     {
-        "item": 293,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 88",
         "cta_cont": 511028,
         "codigo": 5110282090,
@@ -3516,7 +3223,6 @@
         "visible": 1
     },
     {
-        "item": 294,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 89",
         "cta_cont": 511028,
         "codigo": 5110282100,
@@ -3528,7 +3234,6 @@
         "visible": 1
     },
     {
-        "item": 295,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 90",
         "cta_cont": 511028,
         "codigo": 5110282110,
@@ -3540,7 +3245,6 @@
         "visible": 1
     },
     {
-        "item": 296,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 91",
         "cta_cont": 511028,
         "codigo": 5110282120,
@@ -3552,7 +3256,6 @@
         "visible": 1
     },
     {
-        "item": 297,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 92",
         "cta_cont": 511028,
         "codigo": 5110282130,
@@ -3564,7 +3267,6 @@
         "visible": 1
     },
     {
-        "item": 298,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 93",
         "cta_cont": 511028,
         "codigo": 5110282140,
@@ -3576,7 +3278,6 @@
         "visible": 1
     },
     {
-        "item": 299,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 94",
         "cta_cont": 511028,
         "codigo": 5110282150,
@@ -3588,7 +3289,6 @@
         "visible": 1
     },
     {
-        "item": 300,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 95",
         "cta_cont": 511028,
         "codigo": 5110282160,
@@ -3600,7 +3300,6 @@
         "visible": 1
     },
     {
-        "item": 301,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 96",
         "cta_cont": 511028,
         "codigo": 5110282170,
@@ -3612,7 +3311,6 @@
         "visible": 1
     },
     {
-        "item": 302,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 97",
         "cta_cont": 511028,
         "codigo": 5110282180,
@@ -3624,7 +3322,6 @@
         "visible": 1
     },
     {
-        "item": 303,
         "nombre": "SOLICITUD AUX FONDO DE SOLIDARIDAD 98",
         "cta_cont": 511028,
         "codigo": 5110282190,
@@ -3636,7 +3333,6 @@
         "visible": 1
     },
     {
-        "item": 304,
         "nombre": "TABLA CON GANCHO TAMAÑO OFICIO",
         "cta_cont": 511028,
         "codigo": 5110282200,
@@ -3648,7 +3344,6 @@
         "visible": 1
     },
     {
-        "item": 305,
         "nombre": "TABLA DE CORTE DE PAPEL",
         "cta_cont": 511028,
         "codigo": 5110282210,
@@ -3660,7 +3355,6 @@
         "visible": 1
     },
     {
-        "item": 306,
         "nombre": "TACOS COOPSERP",
         "cta_cont": 511028,
         "codigo": 5110282220,
@@ -3672,7 +3366,6 @@
         "visible": 1
     },
     {
-        "item": 307,
         "nombre": "TACOS POS IT GRANDES - COLORES SURTIDOS",
         "cta_cont": 511028,
         "codigo": 5110282230,
@@ -3684,7 +3377,6 @@
         "visible": 1
     },
     {
-        "item": 308,
         "nombre": "TACOS POS IT PEQUEÑO - COLORES SURTIDOS",
         "cta_cont": 511028,
         "codigo": 5110282240,
@@ -3696,7 +3388,6 @@
         "visible": 1
     },
     {
-        "item": 309,
         "nombre": "TALONARIO ACTUALIZACION DE DATOS PEQUEÑO",
         "cta_cont": 511028,
         "codigo": 5110282250,
@@ -3708,7 +3399,6 @@
         "visible": 1
     },
     {
-        "item": 310,
         "nombre": "TALONARIO FORMATO T1",
         "cta_cont": 511028,
         "codigo": 5110282260,
@@ -3720,7 +3410,6 @@
         "visible": 1
     },
     {
-        "item": 311,
         "nombre": "TALONARIO FORMATO T2",
         "cta_cont": 511028,
         "codigo": 5110282270,
@@ -3732,7 +3421,6 @@
         "visible": 1
     },
     {
-        "item": 312,
         "nombre": "TALONARIO LIBRANZA MANUAL GENERICO",
         "cta_cont": 511028,
         "codigo": 5110282280,
@@ -3744,7 +3432,6 @@
         "visible": 1
     },
     {
-        "item": 313,
         "nombre": "TALONARIO PAGARE MANUAL 13 ELEMENTO",
         "cta_cont": 511028,
         "codigo": 5110282290,
@@ -3756,7 +3443,6 @@
         "visible": 1
     },
     {
-        "item": 314,
         "nombre": "TALONARIO PAGARE MANUAL 30 CALI BC",
         "cta_cont": 511028,
         "codigo": 5110282300,
@@ -3768,7 +3454,6 @@
         "visible": 1
     },
     {
-        "item": 315,
         "nombre": "TALONARIO PAGARE MANUAL 31 CALI",
         "cta_cont": 511028,
         "codigo": 5110282310,
@@ -3780,7 +3465,6 @@
         "visible": 1
     },
     {
-        "item": 316,
         "nombre": "TALONARIO PAGARE MANUAL 32 PALMIRA",
         "cta_cont": 511028,
         "codigo": 5110282320,
@@ -3792,7 +3476,6 @@
         "visible": 1
     },
     {
-        "item": 317,
         "nombre": "TALONARIO PAGARE MANUAL 33 BUENAVENTURA",
         "cta_cont": 511028,
         "codigo": 5110282330,
@@ -3804,7 +3487,6 @@
         "visible": 1
     },
     {
-        "item": 318,
         "nombre": "TALONARIO PAGARE MANUAL 34 BUGA",
         "cta_cont": 511028,
         "codigo": 5110282340,
@@ -3816,7 +3498,6 @@
         "visible": 1
     },
     {
-        "item": 319,
         "nombre": "TALONARIO PAGARE MANUAL 35 TULUA",
         "cta_cont": 511028,
         "codigo": 5110282350,
@@ -3828,7 +3509,6 @@
         "visible": 1
     },
     {
-        "item": 320,
         "nombre": "TALONARIO PAGARE MANUAL 36 SEVILLA",
         "cta_cont": 511028,
         "codigo": 5110282360,
@@ -3840,7 +3520,6 @@
         "visible": 1
     },
     {
-        "item": 321,
         "nombre": "TALONARIO PAGARE MANUAL 37 LA UNION",
         "cta_cont": 511028,
         "codigo": 5110282370,
@@ -3852,7 +3531,6 @@
         "visible": 1
     },
     {
-        "item": 322,
         "nombre": "TALONARIO PAGARE MANUAL 38 ROLDANILLO",
         "cta_cont": 511028,
         "codigo": 5110282380,
@@ -3864,7 +3542,6 @@
         "visible": 1
     },
     {
-        "item": 323,
         "nombre": "TALONARIO PAGARE MANUAL 39 CARTAGO",
         "cta_cont": 511028,
         "codigo": 5110282390,
@@ -3876,7 +3553,6 @@
         "visible": 1
     },
     {
-        "item": 324,
         "nombre": "TALONARIO PAGARE MANUAL 40 ZARZAL",
         "cta_cont": 511028,
         "codigo": 5110282400,
@@ -3888,7 +3564,6 @@
         "visible": 1
     },
     {
-        "item": 325,
         "nombre": "TALONARIO PAGARE MANUAL 41 CAICEDONIA",
         "cta_cont": 511028,
         "codigo": 5110282410,
@@ -3900,7 +3575,6 @@
         "visible": 1
     },
     {
-        "item": 326,
         "nombre": "TALONARIO PAGARE MANUAL 42 SANTANDER",
         "cta_cont": 511028,
         "codigo": 5110282420,
@@ -3912,7 +3586,6 @@
         "visible": 1
     },
     {
-        "item": 327,
         "nombre": "TALONARIO PAGARE MANUAL 43 YUMBO",
         "cta_cont": 511028,
         "codigo": 5110282430,
@@ -3924,7 +3597,6 @@
         "visible": 1
     },
     {
-        "item": 328,
         "nombre": "TALONARIO PAGARE MANUAL 44 JAMUNDI",
         "cta_cont": 511028,
         "codigo": 5110282440,
@@ -3936,7 +3608,6 @@
         "visible": 1
     },
     {
-        "item": 329,
         "nombre": "TALONARIO PAGARE MANUAL 45 PASTO",
         "cta_cont": 511028,
         "codigo": 5110282450,
@@ -3948,7 +3619,6 @@
         "visible": 1
     },
     {
-        "item": 330,
         "nombre": "TALONARIO PAGARE MANUAL 46 POPAYAN",
         "cta_cont": 511028,
         "codigo": 5110282460,
@@ -3960,7 +3630,6 @@
         "visible": 1
     },
     {
-        "item": 331,
         "nombre": "TALONARIO PAGARE MANUAL 47 IPIALES",
         "cta_cont": 511028,
         "codigo": 5110282470,
@@ -3972,7 +3641,6 @@
         "visible": 1
     },
     {
-        "item": 332,
         "nombre": "TALONARIO PAGARE MANUAL 48 LETICIA",
         "cta_cont": 511028,
         "codigo": 5110282480,
@@ -3984,7 +3652,6 @@
         "visible": 1
     },
     {
-        "item": 333,
         "nombre": "TALONARIO PAGARE MANUAL 68 SOACHA",
         "cta_cont": 511028,
         "codigo": 5110282490,
@@ -3996,7 +3663,6 @@
         "visible": 1
     },
     {
-        "item": 334,
         "nombre": "TALONARIO PAGARE MANUAL 70 MANIZALES",
         "cta_cont": 511028,
         "codigo": 5110282500,
@@ -4008,7 +3674,6 @@
         "visible": 1
     },
     {
-        "item": 335,
         "nombre": "TALONARIO PAGARE MANUAL 73 ZIPAQUIRA",
         "cta_cont": 511028,
         "codigo": 5110282510,
@@ -4020,7 +3685,6 @@
         "visible": 1
     },
     {
-        "item": 336,
         "nombre": "TALONARIO PAGARE MANUAL 74 PEREIRA",
         "cta_cont": 511028,
         "codigo": 5110282520,
@@ -4032,7 +3696,6 @@
         "visible": 1
     },
     {
-        "item": 337,
         "nombre": "TALONARIO PAGARE MANUAL 76 GIRARDOT",
         "cta_cont": 511028,
         "codigo": 5110282530,
@@ -4044,7 +3707,6 @@
         "visible": 1
     },
     {
-        "item": 338,
         "nombre": "TALONARIO PAGARE MANUAL 77 SAN ANDRES",
         "cta_cont": 511028,
         "codigo": 5110282540,
@@ -4056,7 +3718,6 @@
         "visible": 1
     },
     {
-        "item": 339,
         "nombre": "TALONARIO PAGARE MANUAL 78 ARMENIA",
         "cta_cont": 511028,
         "codigo": 5110282550,
@@ -4068,7 +3729,6 @@
         "visible": 1
     },
     {
-        "item": 340,
         "nombre": "TALONARIO PAGARE MANUAL 80 MEDELLIN",
         "cta_cont": 511028,
         "codigo": 5110282560,
@@ -4080,7 +3740,6 @@
         "visible": 1
     },
     {
-        "item": 341,
         "nombre": "TALONARIO PAGARE MANUAL 81 MONTERIA",
         "cta_cont": 511028,
         "codigo": 5110282570,
@@ -4092,7 +3751,6 @@
         "visible": 1
     },
     {
-        "item": 342,
         "nombre": "TALONARIO PAGARE MANUAL 82 SINCELEJO",
         "cta_cont": 511028,
         "codigo": 5110282580,
@@ -4104,7 +3762,6 @@
         "visible": 1
     },
     {
-        "item": 343,
         "nombre": "TALONARIO PAGARE MANUAL 83 YOPAL",
         "cta_cont": 511028,
         "codigo": 5110282590,
@@ -4116,7 +3773,6 @@
         "visible": 1
     },
     {
-        "item": 344,
         "nombre": "TALONARIO PAGARE MANUAL 84 RIOHACHA",
         "cta_cont": 511028,
         "codigo": 5110282600,
@@ -4128,7 +3784,6 @@
         "visible": 1
     },
     {
-        "item": 345,
         "nombre": "TALONARIO PAGARE MANUAL 85 VALLEDUPAR",
         "cta_cont": 511028,
         "codigo": 5110282610,
@@ -4140,7 +3795,6 @@
         "visible": 1
     },
     {
-        "item": 346,
         "nombre": "TALONARIO PAGARE MANUAL 86 CARTAGENA",
         "cta_cont": 511028,
         "codigo": 5110282620,
@@ -4152,7 +3806,6 @@
         "visible": 1
     },
     {
-        "item": 347,
         "nombre": "TALONARIO PAGARE MANUAL 87 BARRANQUILLA",
         "cta_cont": 511028,
         "codigo": 5110282630,
@@ -4164,7 +3817,6 @@
         "visible": 1
     },
     {
-        "item": 348,
         "nombre": "TALONARIO PAGARE MANUAL 88 SANTA MARTA",
         "cta_cont": 511028,
         "codigo": 5110282640,
@@ -4176,7 +3828,6 @@
         "visible": 1
     },
     {
-        "item": 349,
         "nombre": "TALONARIO PAGARE MANUAL 89 DUITAMA",
         "cta_cont": 511028,
         "codigo": 5110282650,
@@ -4188,7 +3839,6 @@
         "visible": 1
     },
     {
-        "item": 350,
         "nombre": "TALONARIO PAGARE MANUAL 90 BOGOTA CENTR",
         "cta_cont": 511028,
         "codigo": 5110282660,
@@ -4200,7 +3850,6 @@
         "visible": 1
     },
     {
-        "item": 351,
         "nombre": "TALONARIO PAGARE MANUAL 91 BOGOTA TORRE",
         "cta_cont": 511028,
         "codigo": 5110282670,
@@ -4212,7 +3861,6 @@
         "visible": 1
     },
     {
-        "item": 352,
         "nombre": "TALONARIO PAGARE MANUAL 92 BOGOTA NORTE",
         "cta_cont": 511028,
         "codigo": 5110282680,
@@ -4224,7 +3872,6 @@
         "visible": 1
     },
     {
-        "item": 353,
         "nombre": "TALONARIO PAGARE MANUAL 93 VILLAVICENCI",
         "cta_cont": 511028,
         "codigo": 5110282690,
@@ -4236,7 +3883,6 @@
         "visible": 1
     },
     {
-        "item": 354,
         "nombre": "TALONARIO PAGARE MANUAL 94 TUNJA",
         "cta_cont": 511028,
         "codigo": 5110282700,
@@ -4248,7 +3894,6 @@
         "visible": 1
     },
     {
-        "item": 355,
         "nombre": "TALONARIO PAGARE MANUAL 95 IBAGUE",
         "cta_cont": 511028,
         "codigo": 5110282710,
@@ -4260,7 +3905,6 @@
         "visible": 1
     },
     {
-        "item": 356,
         "nombre": "TALONARIO PAGARE MANUAL 96 NEIVA",
         "cta_cont": 511028,
         "codigo": 5110282720,
@@ -4272,7 +3916,6 @@
         "visible": 1
     },
     {
-        "item": 357,
         "nombre": "TALONARIO PAGARE MANUAL 97 BUCARAMANGA",
         "cta_cont": 511028,
         "codigo": 5110282730,
@@ -4284,7 +3927,6 @@
         "visible": 1
     },
     {
-        "item": 358,
         "nombre": "TALONARIO PAGARE MANUAL 98 CUCUTA",
         "cta_cont": 511028,
         "codigo": 5110282740,
@@ -4296,7 +3938,6 @@
         "visible": 1
     },
     {
-        "item": 359,
         "nombre": "TALONARIO RECIBO CAJA MENOR MINERVA X100",
         "cta_cont": 511028,
         "codigo": 5110282750,
@@ -4308,7 +3949,6 @@
         "visible": 1
     },
     {
-        "item": 360,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 13 ELEME",
         "cta_cont": 511028,
         "codigo": 5110282760,
@@ -4320,7 +3960,6 @@
         "visible": 1
     },
     {
-        "item": 361,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 30 CALI BC",
         "cta_cont": 511028,
         "codigo": 5110282770,
@@ -4332,7 +3971,6 @@
         "visible": 1
     },
     {
-        "item": 362,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 31 CALI",
         "cta_cont": 511028,
         "codigo": 5110282780,
@@ -4344,7 +3982,6 @@
         "visible": 1
     },
     {
-        "item": 363,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 32 PAL",
         "cta_cont": 511028,
         "codigo": 5110282790,
@@ -4356,7 +3993,6 @@
         "visible": 1
     },
     {
-        "item": 364,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 33 BTURA",
         "cta_cont": 511028,
         "codigo": 5110282800,
@@ -4368,7 +4004,6 @@
         "visible": 1
     },
     {
-        "item": 365,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 34 BUGA",
         "cta_cont": 511028,
         "codigo": 5110282810,
@@ -4380,7 +4015,6 @@
         "visible": 1
     },
     {
-        "item": 366,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 35 TULUA",
         "cta_cont": 511028,
         "codigo": 5110282820,
@@ -4392,7 +4026,6 @@
         "visible": 1
     },
     {
-        "item": 367,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 36 SEV",
         "cta_cont": 511028,
         "codigo": 5110282830,
@@ -4404,7 +4037,6 @@
         "visible": 1
     },
     {
-        "item": 368,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 37 LA U",
         "cta_cont": 511028,
         "codigo": 5110282840,
@@ -4416,7 +4048,6 @@
         "visible": 1
     },
     {
-        "item": 369,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 38 ROLDA",
         "cta_cont": 511028,
         "codigo": 5110282850,
@@ -4428,7 +4059,6 @@
         "visible": 1
     },
     {
-        "item": 370,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 39 CARTA",
         "cta_cont": 511028,
         "codigo": 5110282860,
@@ -4440,7 +4070,6 @@
         "visible": 1
     },
     {
-        "item": 371,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 40 ZARZ",
         "cta_cont": 511028,
         "codigo": 5110282870,
@@ -4452,7 +4081,6 @@
         "visible": 1
     },
     {
-        "item": 372,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 41 CAICE",
         "cta_cont": 511028,
         "codigo": 5110282880,
@@ -4464,7 +4092,6 @@
         "visible": 1
     },
     {
-        "item": 373,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 42 SANTA",
         "cta_cont": 511028,
         "codigo": 5110282890,
@@ -4476,7 +4103,6 @@
         "visible": 1
     },
     {
-        "item": 374,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 43 YUMBO",
         "cta_cont": 511028,
         "codigo": 5110282900,
@@ -4488,7 +4114,6 @@
         "visible": 1
     },
     {
-        "item": 375,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 44 JAMUN",
         "cta_cont": 511028,
         "codigo": 5110282910,
@@ -4500,7 +4125,6 @@
         "visible": 1
     },
     {
-        "item": 376,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 45 PASTO",
         "cta_cont": 511028,
         "codigo": 5110282920,
@@ -4512,7 +4136,6 @@
         "visible": 1
     },
     {
-        "item": 377,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 46 POPAY",
         "cta_cont": 511028,
         "codigo": 5110282930,
@@ -4524,7 +4147,6 @@
         "visible": 1
     },
     {
-        "item": 378,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 47 IPIAL",
         "cta_cont": 511028,
         "codigo": 5110282940,
@@ -4536,7 +4158,6 @@
         "visible": 1
     },
     {
-        "item": 379,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 48 LETIC",
         "cta_cont": 511028,
         "codigo": 5110282950,
@@ -4548,7 +4169,6 @@
         "visible": 1
     },
     {
-        "item": 380,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 68 SOACH",
         "cta_cont": 511028,
         "codigo": 5110282960,
@@ -4560,7 +4180,6 @@
         "visible": 1
     },
     {
-        "item": 381,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 70 MANIZ",
         "cta_cont": 511028,
         "codigo": 5110282970,
@@ -4572,7 +4191,6 @@
         "visible": 1
     },
     {
-        "item": 382,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 73 ZIPAQ",
         "cta_cont": 511028,
         "codigo": 5110282980,
@@ -4584,7 +4202,6 @@
         "visible": 1
     },
     {
-        "item": 383,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 74 PEREI",
         "cta_cont": 511028,
         "codigo": 5110282990,
@@ -4596,7 +4213,6 @@
         "visible": 1
     },
     {
-        "item": 384,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 76 GIRAL",
         "cta_cont": 511028,
         "codigo": 5110283000,
@@ -4608,7 +4224,6 @@
         "visible": 1
     },
     {
-        "item": 385,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 77 SAN",
         "cta_cont": 511028,
         "codigo": 5110283010,
@@ -4620,7 +4235,6 @@
         "visible": 1
     },
     {
-        "item": 386,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 78 ARMEN",
         "cta_cont": 511028,
         "codigo": 5110283020,
@@ -4632,7 +4246,6 @@
         "visible": 1
     },
     {
-        "item": 387,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 80 MEDEL",
         "cta_cont": 511028,
         "codigo": 5110283030,
@@ -4644,7 +4257,6 @@
         "visible": 1
     },
     {
-        "item": 388,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 81 MONTE",
         "cta_cont": 511028,
         "codigo": 5110283040,
@@ -4656,7 +4268,6 @@
         "visible": 1
     },
     {
-        "item": 389,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 82 SINCE",
         "cta_cont": 511028,
         "codigo": 5110283050,
@@ -4668,7 +4279,6 @@
         "visible": 1
     },
     {
-        "item": 390,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 83 YOPAL",
         "cta_cont": 511028,
         "codigo": 5110283060,
@@ -4680,7 +4290,6 @@
         "visible": 1
     },
     {
-        "item": 391,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 84 RIOHA",
         "cta_cont": 511028,
         "codigo": 5110283070,
@@ -4692,7 +4301,6 @@
         "visible": 1
     },
     {
-        "item": 392,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 85 VALLE",
         "cta_cont": 511028,
         "codigo": 5110283080,
@@ -4704,7 +4312,6 @@
         "visible": 1
     },
     {
-        "item": 393,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 86 CARTA",
         "cta_cont": 511028,
         "codigo": 5110283090,
@@ -4716,7 +4323,6 @@
         "visible": 1
     },
     {
-        "item": 394,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 87 BARRA",
         "cta_cont": 511028,
         "codigo": 5110283100,
@@ -4728,7 +4334,6 @@
         "visible": 1
     },
     {
-        "item": 395,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 88 SANTA",
         "cta_cont": 511028,
         "codigo": 5110283110,
@@ -4740,7 +4345,6 @@
         "visible": 1
     },
     {
-        "item": 396,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 89 DUITA",
         "cta_cont": 511028,
         "codigo": 5110283120,
@@ -4752,7 +4356,6 @@
         "visible": 1
     },
     {
-        "item": 397,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 90 BOGOT",
         "cta_cont": 511028,
         "codigo": 5110283130,
@@ -4764,7 +4367,6 @@
         "visible": 1
     },
     {
-        "item": 398,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 91 BOG.T",
         "cta_cont": 511028,
         "codigo": 5110283140,
@@ -4776,7 +4378,6 @@
         "visible": 1
     },
     {
-        "item": 399,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 92 BOG.N",
         "cta_cont": 511028,
         "codigo": 5110283150,
@@ -4788,7 +4389,6 @@
         "visible": 1
     },
     {
-        "item": 400,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 93 VILLA",
         "cta_cont": 511028,
         "codigo": 5110283160,
@@ -4800,7 +4400,6 @@
         "visible": 1
     },
     {
-        "item": 401,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 94 TUNJA",
         "cta_cont": 511028,
         "codigo": 5110283170,
@@ -4812,7 +4411,6 @@
         "visible": 1
     },
     {
-        "item": 402,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 95 IBAGU",
         "cta_cont": 511028,
         "codigo": 5110283180,
@@ -4824,7 +4422,6 @@
         "visible": 1
     },
     {
-        "item": 403,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 96 NEIVA",
         "cta_cont": 511028,
         "codigo": 5110283190,
@@ -4836,7 +4433,6 @@
         "visible": 1
     },
     {
-        "item": 404,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 97 BUCAR",
         "cta_cont": 511028,
         "codigo": 5110283200,
@@ -4848,7 +4444,6 @@
         "visible": 1
     },
     {
-        "item": 405,
         "nombre": "TALONARIO RETIRO Y DEV APORTES 98 CUCUT",
         "cta_cont": 511028,
         "codigo": 5110283210,
@@ -4860,7 +4455,6 @@
         "visible": 1
     },
     {
-        "item": 406,
         "nombre": "TIJERAS",
         "cta_cont": 511028,
         "codigo": 5110283220,
@@ -4872,7 +4466,6 @@
         "visible": 1
     },
     {
-        "item": 407,
         "nombre": "TIJERAS ANTIADHERENTES",
         "cta_cont": 511028,
         "codigo": 5110283230,
@@ -4884,7 +4477,6 @@
         "visible": 1
     },
     {
-        "item": 408,
         "nombre": "TINTA PARA SELLOS",
         "cta_cont": 511028,
         "codigo": 5110283240,
@@ -4896,7 +4488,6 @@
         "visible": 1
     },
     {
-        "item": 409,
         "nombre": "AMARRA PLASTICA DIFERENTE MEDIDAS",
         "cta_cont": 511012,
         "codigo": 5110120010,
@@ -4908,7 +4499,6 @@
         "visible": 1
     },
     {
-        "item": 410,
         "nombre": "BALASTO 2 X 48",
         "cta_cont": 511012,
         "codigo": 5110120020,
@@ -4920,7 +4510,6 @@
         "visible": 1
     },
     {
-        "item": 411,
         "nombre": "BALASTO 4 X 32",
         "cta_cont": 511012,
         "codigo": 5110120030,
@@ -4932,7 +4521,6 @@
         "visible": 1
     },
     {
-        "item": 412,
         "nombre": "BOMBILLOS LED",
         "cta_cont": 511012,
         "codigo": 5110120040,
@@ -4944,7 +4532,6 @@
         "visible": 1
     },
     {
-        "item": 413,
         "nombre": "CABLE BLANCO ENRESORTADO PARA TELEFONO",
         "cta_cont": 511012,
         "codigo": 5110120050,
@@ -4956,7 +4543,6 @@
         "visible": 1
     },
     {
-        "item": 414,
         "nombre": "CABLE LINEA TELEFONICA",
         "cta_cont": 511012,
         "codigo": 5110120060,
@@ -4968,7 +4554,6 @@
         "visible": 1
     },
     {
-        "item": 415,
         "nombre": "CABLE NEGRO ENRESORTADO PARA TELEFONO",
         "cta_cont": 511012,
         "codigo": 5110120070,
@@ -4980,7 +4565,6 @@
         "visible": 1
     },
     {
-        "item": 416,
         "nombre": "CHAPAS DE PUERTA",
         "cta_cont": 511012,
         "codigo": 5110120080,
@@ -4992,7 +4576,6 @@
         "visible": 1
     },
     {
-        "item": 417,
         "nombre": "GUANTES DE CARNAZA PAR",
         "cta_cont": 511012,
         "codigo": 5110120090,
@@ -5004,7 +4587,6 @@
         "visible": 1
     },
     {
-        "item": 418,
         "nombre": "NYLON CALIBRE 80X90MT",
         "cta_cont": 511012,
         "codigo": 5110120100,
@@ -5016,7 +4598,6 @@
         "visible": 1
     },
     {
-        "item": 419,
         "nombre": "NYLON CALIBRE 90 X 90MT",
         "cta_cont": 511012,
         "codigo": 5110120110,
@@ -5028,7 +4609,6 @@
         "visible": 1
     },
     {
-        "item": 420,
         "nombre": "TUBO FLUORESCENTE 17W E",
         "cta_cont": 511012,
         "codigo": 5110120120,
@@ -5040,7 +4620,6 @@
         "visible": 1
     },
     {
-        "item": 421,
         "nombre": "TUBO FLUORESCENTE 32W",
         "cta_cont": 511012,
         "codigo": 5110120130,
@@ -5052,7 +4631,6 @@
         "visible": 1
     },
     {
-        "item": 422,
         "nombre": "TUBO FLUORESCENTE 40W",
         "cta_cont": 511012,
         "codigo": 5110120140,
@@ -5064,7 +4642,6 @@
         "visible": 1
     },
     {
-        "item": 423,
         "nombre": "TUBO LED 32W",
         "cta_cont": 511012,
         "codigo": 5110120150,
@@ -5076,7 +4653,6 @@
         "visible": 1
     },
     {
-        "item": 424,
         "nombre": "CARTUCHO EPSON 215",
         "cta_cont": 511058,
         "codigo": 5110580010,
@@ -5088,7 +4664,6 @@
         "visible": 1
     },
     {
-        "item": 425,
         "nombre": "CARTUCHO EPSON WF-100",
         "cta_cont": 511058,
         "codigo": 5110580020,
@@ -5100,7 +4675,6 @@
         "visible": 1
     },
     {
-        "item": 426,
         "nombre": "CINTA BEST CARBON - REF8121 - EPSON ERC",
         "cta_cont": 511058,
         "codigo": 5110580030,
@@ -5112,7 +4686,6 @@
         "visible": 1
     },
     {
-        "item": 427,
         "nombre": "CINTA CASSETTE SEIKO/TP20 - RELOJ",
         "cta_cont": 511058,
         "codigo": 5110580040,
@@ -5124,7 +4697,6 @@
         "visible": 1
     },
     {
-        "item": 428,
         "nombre": "CINTA CORREGIBLE PARA MAQUINA DE ESCRIB",
         "cta_cont": 511058,
         "codigo": 5110580050,
@@ -5136,7 +4708,6 @@
         "visible": 1
     },
     {
-        "item": 429,
         "nombre": "CINTA IMPRESORA EPSON 2090",
         "cta_cont": 511058,
         "codigo": 5110580060,
@@ -5148,7 +4719,6 @@
         "visible": 1
     },
     {
-        "item": 430,
         "nombre": "CINTA IMPRESORA EPSON 2190-GENERICAS",
         "cta_cont": 511058,
         "codigo": 5110580070,
@@ -5160,7 +4730,6 @@
         "visible": 1
     },
     {
-        "item": 431,
         "nombre": "CINTA IMPRESORA EPSON 2190-ORIGINALES",
         "cta_cont": 511058,
         "codigo": 5110580080,
@@ -5172,7 +4741,6 @@
         "visible": 1
     },
     {
-        "item": 432,
         "nombre": "CINTA IMPRESORA EPSON 8755",
         "cta_cont": 511058,
         "codigo": 5110580090,
@@ -5184,7 +4752,6 @@
         "visible": 1
     },
     {
-        "item": 433,
         "nombre": "CINTA IMPRESORA EPSON FX 890",
         "cta_cont": 511058,
         "codigo": 5110580100,
@@ -5196,7 +4763,6 @@
         "visible": 1
     },
     {
-        "item": 434,
         "nombre": "CINTA IMPRESORA EPSON LX 300",
         "cta_cont": 511058,
         "codigo": 5110580110,
@@ -5208,7 +4774,6 @@
         "visible": 1
     },
     {
-        "item": 435,
         "nombre": "CINTA MAQUINA BROTHER EM 200BK",
         "cta_cont": 511058,
         "codigo": 5110580120,
@@ -5220,7 +4785,6 @@
         "visible": 1
     },
     {
-        "item": 436,
         "nombre": "CINTA ONIX REF P80ND",
         "cta_cont": 511058,
         "codigo": 5110580130,
@@ -5232,7 +4796,6 @@
         "visible": 1
     },
     {
-        "item": 437,
         "nombre": "CINTA SUMADORA",
         "cta_cont": 511058,
         "codigo": 5110580140,
@@ -5244,7 +4807,6 @@
         "visible": 1
     },
     {
-        "item": 438,
         "nombre": "ROLLO CINTA IMPRESORA ZEBRA TPL-2844",
         "cta_cont": 511058,
         "codigo": 5110580150,
@@ -5256,7 +4818,6 @@
         "visible": 1
     },
     {
-        "item": 439,
         "nombre": "ROLLO ETIQUETA DYMO",
         "cta_cont": 511058,
         "codigo": 5110580160,
@@ -5268,7 +4829,6 @@
         "visible": 1
     },
     {
-        "item": 440,
         "nombre": "ROLLO ETIQUETA PLATA",
         "cta_cont": 511058,
         "codigo": 5110580170,
@@ -5280,7 +4840,6 @@
         "visible": 1
     },
     {
-        "item": 441,
         "nombre": "ROLLO ETIQUETA TERMICA 10*5 CORREO",
         "cta_cont": 511058,
         "codigo": 5110580180,
@@ -5292,7 +4851,6 @@
         "visible": 1
     },
     {
-        "item": 442,
         "nombre": "ROLLO SUMADORA 57 X 40",
         "cta_cont": 511058,
         "codigo": 5110580190,
@@ -5304,7 +4862,6 @@
         "visible": 1
     },
     {
-        "item": 443,
         "nombre": "ROLLO TURNOS ELECTRONICOS",
         "cta_cont": 511058,
         "codigo": 5110580200,
@@ -5316,7 +4873,6 @@
         "visible": 1
     },
     {
-        "item": 444,
         "nombre": "TONER HP CF400X NEGRO",
         "cta_cont": 511058,
         "codigo": 5110580210,
@@ -5328,7 +4884,6 @@
         "visible": 1
     },
     {
-        "item": 445,
         "nombre": "TONER HP CF401X CYAN",
         "cta_cont": 511058,
         "codigo": 5110580220,
@@ -5340,7 +4895,6 @@
         "visible": 1
     },
     {
-        "item": 446,
         "nombre": "TONER HP CF402A AMARILLO",
         "cta_cont": 511058,
         "codigo": 5110580230,
@@ -5352,7 +4906,6 @@
         "visible": 1
     },
     {
-        "item": 447,
         "nombre": "TONER HP CF403A MAGENTA",
         "cta_cont": 511058,
         "codigo": 5110580240,
@@ -5364,7 +4917,6 @@
         "visible": 1
     },
     {
-        "item": 448,
         "nombre": "TONER LEX-60F4H00-ORIGINAL-MX410-511-611",
         "cta_cont": 511058,
         "codigo": 5110580250,
@@ -5376,7 +4928,6 @@
         "visible": 1
     },
     {
-        "item": 449,
         "nombre": "TONER LEX-60F4X00-ORIGINAL-/511-510-310",
         "cta_cont": 511058,
         "codigo": 5110580260,
@@ -5388,7 +4939,6 @@
         "visible": 1
     },
     {
-        "item": 450,
         "nombre": "TONER LEXMARK E-350",
         "cta_cont": 511058,
         "codigo": 5110580270,
@@ -5400,7 +4950,6 @@
         "visible": 1
     },
     {
-        "item": 451,
         "nombre": "TONER LEXMARK MX521/MX522",
         "cta_cont": 511058,
         "codigo": 5110580280,
@@ -5412,7 +4961,6 @@
         "visible": 1
     },
     {
-        "item": 452,
         "nombre": "TONER LEXMARK MX622",
         "cta_cont": 511058,
         "codigo": 5110580290,
@@ -5424,7 +4972,6 @@
         "visible": 1
     },
     {
-        "item": 453,
         "nombre": "TONER LEXMARK T-610 / 640",
         "cta_cont": 511058,
         "codigo": 5110580300,
@@ -5436,7 +4983,6 @@
         "visible": 1
     },
     {
-        "item": 454,
         "nombre": "TONER LEXMARK T-644",
         "cta_cont": 511058,
         "codigo": 5110580310,
@@ -5448,7 +4994,6 @@
         "visible": 1
     },
     {
-        "item": 455,
         "nombre": "TONER LEXMARK X264H11G 9000 PAGINAS",
         "cta_cont": 511058,
         "codigo": 5110580320,
@@ -5460,7 +5005,6 @@
         "visible": 1
     },
     {
-        "item": 456,
         "nombre": "TONER TOSHIBA T1640",
         "cta_cont": 511058,
         "codigo": 5110580330,
@@ -5472,7 +5016,6 @@
         "visible": 1
     },
     {
-        "item": 457,
         "nombre": "UNIDAD DE IMAGEN LEXMARK 50F0Z00",
         "cta_cont": 511058,
         "codigo": 5110580340,
@@ -5484,7 +5027,6 @@
         "visible": 1
     },
     {
-        "item": 458,
         "nombre": "UNIDAD DE IMAGEN LEXMARK MX 310 de",
         "cta_cont": 511058,
         "codigo": 5110580350,
@@ -5496,7 +5038,6 @@
         "visible": 1
     },
     {
-        "item": 459,
         "nombre": "UNIDAD DE IMAGEN LEXMARK MX 410 de",
         "cta_cont": 511058,
         "codigo": 5110580360,
@@ -5508,7 +5049,6 @@
         "visible": 1
     },
     {
-        "item": 460,
         "nombre": "UNIDAD DE IMAGEN LEXMARK MX317DN",
         "cta_cont": 511058,
         "codigo": 5110580370,
@@ -5520,7 +5060,6 @@
         "visible": 1
     },
     {
-        "item": 461,
         "nombre": "UNIDAD DE IMAGEN LEXMARK MX511",
         "cta_cont": 511058,
         "codigo": 5110580380,
@@ -5532,7 +5071,6 @@
         "visible": 1
     },
     {
-        "item": 462,
         "nombre": "UNIDAD DE IMAGEN LEXMARK MX521-MX522",
         "cta_cont": 511058,
         "codigo": 5110580390,
@@ -5544,7 +5082,6 @@
         "visible": 1
     },
     {
-        "item": 463,
         "nombre": "ANTIBACTERIAL SANIZANTE SCOTT X500ML",
         "cta_cont": 511068,
         "codigo": 5110680010,
@@ -5556,7 +5093,6 @@
         "visible": 1
     },
     {
-        "item": 464,
         "nombre": "GEL ANTIBACTERIAL PQP X 1L",
         "cta_cont": 511068,
         "codigo": 5110680020,
@@ -5568,7 +5104,6 @@
         "visible": 1
     },
     {
-        "item": 465,
         "nombre": "CAJA DE CAFÉ INSTANTANEO X 48 SOBRES INDIVIDUALES",
         "cta_cont": 511020,
         "codigo": 5110200031,
@@ -5580,7 +5115,6 @@
         "visible": 1
     },
     {
-        "item": 466,
         "nombre": "AZUCAR X 200 SOBRES INDIVIDUALES ",
         "cta_cont": 511020,
         "codigo": 5110200021,
@@ -5592,7 +5126,6 @@
         "visible": 1
     },
     {
-        "item": 467,
         "nombre": "CONSERVA DE AJI",
         "cta_cont": 511034,
         "codigo": 5110340041,
