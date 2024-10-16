@@ -23,15 +23,22 @@ const createProduct = async (req, res) => {
     }
 
     try {
-        // Buscar el producto más alto en la misma categoría
+        // Buscar el producto con el código más alto en la misma categoría
         const highestProduct = await Product.findOne({ categoria }).sort({ codigo: -1 });
 
-        // Determinar el nuevo código
-        const newCode = highestProduct ? highestProduct.codigo + 10 : 10; // Si no existe, iniciar en 10
+        // Determinar el nuevo código, incrementar en 10 o iniciar en 10 si no hay productos en la categoría
+        const newCode = highestProduct ? highestProduct.codigo + 10 : 10;
+
+        // Buscar el último producto creado para determinar el nuevo "item" consecutivo
+        const lastProduct = await Product.findOne().sort({ item: -1 });
+
+        // Determinar el nuevo valor de "item", incrementar en 1 o iniciar en 1 si no hay productos
+        const newItem = lastProduct ? lastProduct.item + 1 : 1;
 
         // Crear un nuevo producto
         const newProduct = new Product({
             nombre,
+            item: newItem, // Asignar el nuevo consecutivo de "item"
             categoria,
             grupo_desc,
             tipo,

@@ -74,7 +74,6 @@ const getProviderById = async (req, res) => {
 // Actualizar un proveedor
 const updateProvider = async (req, res) => {
     const { id } = req.params;
-
     try {
         const provider = await Provider.findById(id);
 
@@ -82,15 +81,26 @@ const updateProvider = async (req, res) => {
             return res.status(404).json({ message: "Proveedor no encontrado." });
         }
 
-        const { nombre, ciudad, direccion, telefono, director, correo } = req.body;
+        const { nit, razon_social, direccion, ciudad, tel, cel, correo, contacto, act_eco, fecha_inag, cod_ins, cod_ins_fecha, ver_ins, cod_dat, cod_dat_fecha, ver_dat, visible } = req.body;
 
         // Actualiza solo los campos que se han proporcionado
-        provider.nombre = nombre || provider.nombre;
-        provider.ciudad = ciudad || provider.ciudad;
+        provider.nit = nit || provider.nit;
+        provider.razon_social = razon_social || provider.razon_social;
         provider.direccion = direccion || provider.direccion;
-        provider.telefono = telefono || provider.telefono;
-        provider.director = director || provider.director;
+        provider.ciudad = ciudad || provider.ciudad;
+        provider.tel = tel || provider.tel;
+        provider.cel = cel || provider.cel;
         provider.correo = correo || provider.correo;
+        provider.contacto = contacto || provider.contacto;
+        provider.act_eco = act_eco || provider.act_eco;
+        provider.fecha_inag = fecha_inag || provider.fecha_inag;
+        provider.cod_ins = cod_ins || provider.cod_ins;
+        provider.cod_ins_fecha = cod_ins_fecha || provider.cod_ins_fecha;
+        provider.ver_ins = ver_ins !== undefined ? ver_ins : provider.ver_ins;
+        provider.cod_dat = cod_dat || provider.cod_dat;
+        provider.cod_dat_fecha = cod_dat_fecha || provider.cod_dat_fecha;
+        provider.ver_dat = ver_dat !== undefined ? ver_dat : provider.ver_dat;
+        provider.visible = visible || provider.visible;
 
         await provider.save();
         res.status(200).json(provider);

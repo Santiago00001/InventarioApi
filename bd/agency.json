@@ -18,7 +18,7 @@
         "item": 2,
         "coordinador": "NA",
         "cod": 13,
-        "nombre": "REPORTES BOGOT\u00c1",
+        "nombre": "REPORTES BOGOTA",
         "director": {
             "$oid": "670422fb9cb8a2778f560a8f"
         }
@@ -30,7 +30,7 @@
         "item": 3,
         "coordinador": "NA",
         "cod": 21,
-        "nombre": "JURIDICO BOGOT\u00c1 ZONA CENTRO",
+        "nombre": "JURIDICO BOGOTA ZONA CENTRO",
         "director": {
             "$oid": "670422fb9cb8a2778f560a90"
         }
@@ -90,7 +90,7 @@
         "item": 8,
         "coordinador": "NA",
         "cod": 31,
-        "nombre": "DIRECCI\u00d3N GENERAL",
+        "nombre": "DIRECCION GENERAL",
         "director": {
             "$oid": "670422fb9cb8a2778f560a95"
         }
@@ -102,7 +102,7 @@
         "item": 9,
         "coordinador": "NA",
         "cod": 31,
-        "nombre": "TESORER\u00cdA ",
+        "nombre": "TESORERIA ",
         "director": {
             "$oid": "670422fb9cb8a2778f560a96"
         }

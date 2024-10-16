@@ -1,41 +1,89 @@
 [
     {
-        "Nit": "123456789-0",
-        "nombre_empresa": "Limpieza Total S.A.S.",
-        "direccion": "Calle 1 #23-45",
+        "_id": {
+            "$oid": "670437f29cb8a2778f560ad6"
+        },
+        "item": 1,
+        "nit": "123456789",
+        "razon_social": "Proveedor de Servicios SA",
+        "direccion": "Calle 123 #45-67",
         "ciudad": "Bogotá",
-        "email": "proveedor1@example.com",
-        "tel": "1234567",
-        "cel": "3001234567",
-        "correo": "contacto1@example.com",
-        "rut": "12.345.678-9",
-        "actividad_economica": "Servicios de limpieza",
-        "fecha_inaug_empresa": "2010-05-15"
-    },
-    {
-        "Nit": "987654321-0",
-        "nombre_empresa": "Ofimática Express Ltda.",
-        "direccion": "Avenida 2 #34-56",
-        "ciudad": "Medellín",
-        "email": "proveedor2@example.com",
-        "tel": "7654321",
-        "cel": "3007654321",
-        "correo": "contacto2@example.com",
-        "rut": "98.765.432-1",
-        "actividad_economica": "Suministros de oficina",
-        "fecha_inaug_empresa": "2015-08-20"
-    },
-    {
-        "Nit": "456123789-0",
-        "nombre_empresa": "Comercio Mayorista S.A.",
-        "direccion": "Carrera 3 #12-34",
-        "ciudad": "Cali",
-        "email": "proveedor3@example.com",
-        "tel": "3456789",
+        "tel": "6001234",
         "cel": "3101234567",
-        "correo": "contacto3@example.com",
-        "rut": "45.612.378-9",
-        "actividad_economica": "Comercio al por mayor",
-        "fecha_inaug_empresa": "2018-03-10"
-    }
+        "correo": "contacto@servicios.com",
+        "contacto": "Juan Pérez",
+        "act_eco": "Consultoría TI",
+        "fecha_inag": {
+            "$date": "2023-01-11T00:00:00.000Z"
+        },
+        "cod_ins": "INS123",
+        "cod_ins_fecha": {
+            "$date": "2024-01-10T00:00:00.000Z"
+        },
+        "ver_ins": true,
+        "cod_dat": "DAT456",
+        "cod_dat_fecha": {
+            "$date": "2024-01-10T00:00:00.000Z"
+        },
+        "ver_dat": true,
+        "visible": 1
+    },
+    {
+        "_id": {
+          "$oid": "670437f29cb8a2778f560ad7"
+        },
+        "item": 2,
+        "nit": "987654321",
+        "razon_social": "Comercializadora XYZ Ltda",
+        "direccion": "Carrera 10 #20-30",
+        "ciudad": "Medellín",
+        "tel": "6041234567",
+        "cel": "3209876543",
+        "correo": "ventas@comercializadora.xyz",
+        "contacto": "María López",
+        "act_eco": "Comercio al por mayor",
+        "fecha_inag": {
+          "$date": "2022-06-15T00:00:00.000Z"
+        },
+        "cod_ins": "INS987",
+        "cod_ins_fecha": {
+          "$date": "2023-06-15T00:00:00.000Z"
+        },
+        "ver_ins": true,
+        "cod_dat": "DAT654",
+        "cod_dat_fecha": {
+          "$date": "2023-06-15T00:00:00.000Z"
+        },
+        "ver_dat": true,
+        "visible": 1
+      },
+      {
+        "_id": {
+          "$oid": "670437f29cb8a2778f560ad8"
+        },
+        "item": 3,
+        "nit": "456789123",
+        "razon_social": "Fabricaciones Industriales SRL",
+        "direccion": "Avenida 30 #5-10",
+        "ciudad": "Cali",
+        "tel": "6023456789",
+        "cel": "3156789012",
+        "correo": "info@fabricaciones.com",
+        "contacto": "Carlos Gómez",
+        "act_eco": "Fabricación de maquinaria",
+        "fecha_inag": {
+          "$date": "2021-11-20T00:00:00.000Z"
+        },
+        "cod_ins": "INS654",
+        "cod_ins_fecha": {
+          "$date": "2022-11-20T00:00:00.000Z"
+        },
+        "ver_ins": false,
+        "cod_dat": "DAT321",
+        "cod_dat_fecha": {
+          "$date": "2022-11-20T00:00:00.000Z"
+        },
+        "ver_dat": false,
+        "visible": 1
+      }
 ]
