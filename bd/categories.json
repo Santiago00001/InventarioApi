@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96ea5"
+  },
+  "name": "ASEO",
+  "categoryLetter": "A",
+  "cta_cont": 511018
+},
+{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96ea6"
+  },
+  "name": "CAFETERIA",
+  "categoryLetter": "C",
+  "cta_cont": 511020
+},
+{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96ea7"
+  },
+  "name": "MERCADEO",
+  "categoryLetter": "M",
+  "cta_cont": 511034
+},
+{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96ea8"
+  },
+  "name": "PAPELERÍA",
+  "categoryLetter": "P",
+  "cta_cont": 511028
+},
+{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96ea9"
+  },
+  "name": "REPUESTOS DE MTO",
+  "categoryLetter": "R",
+  "cta_cont": 511012
+},
+{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96eaa"
+  },
+  "name": "SISTEMAS INSUMOS",
+  "categoryLetter": "S",
+  "cta_cont": 511058
+},
+{
+  "_id": {
+    "$oid": "67113311b0d51700f6a96eab"
+  },
+  "name": "TAMIZAJE",
+  "categoryLetter": "T",
+  "cta_cont": 511068
+}]

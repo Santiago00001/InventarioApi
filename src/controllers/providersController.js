@@ -34,14 +34,28 @@ const createProvider = async (req, res) => {
             return res.status(200).json({ message: "Proveedor existente activado nuevamente.", provider: existingProvider });
         }
 
+        const lastProvider = await Provider.findOne().sort({ item: -1 });
+        const nextItem = lastUser ? lastProvider.item + 1 : 1;
+
         // Crear un nuevo proveedor
         const newProvider = new Provider({
-            nombre,
-            ciudad,
+            item: nextItem,
+            nit,
+            razon_social,
             direccion,
-            telefono,
-            director,
+            ciudad,
+            tel,
+            cel,
             correo,
+            contacto,
+            act_eco,
+            fecha_inag,
+            cod_ins,
+            cod_ins_fecha,
+            ver_ins,
+            cod_dat,
+            cod_dat_fecha,
+            ver_dat,
             visible: 1 // Establecer como visible por defecto
         });
 

@@ -32,8 +32,12 @@ const createAgency = async (req, res) => {
             return res.status(200).json({ message: "Agencia existente activada nuevamente.", agency: existingAgency });
         }
 
+        const lastAgency = await Agency.findOne().sort({ item: -1 });
+        const nextItem = lastUser ? lastAgency.item + 1 : 1;
+
         // Crear una nueva agencia
         const newAgency = new Agency({
+            item: nextItem,
             nombre,
             cod,
             coordinador,
