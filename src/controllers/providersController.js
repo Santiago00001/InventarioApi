@@ -35,7 +35,7 @@ const createProvider = async (req, res) => {
         }
 
         const lastProvider = await Provider.findOne().sort({ item: -1 });
-        const nextItem = lastUser ? lastProvider.item + 1 : 1;
+        const nextItem = lastProvider ? lastProvider.item + 1 : 1;
 
         // Crear un nuevo proveedor
         const newProvider = new Provider({

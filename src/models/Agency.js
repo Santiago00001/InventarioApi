@@ -18,8 +18,9 @@ const agenciaSchema = new mongoose.Schema({
         required: true,
     },
     director: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: 'User',
+        type: mongoose.Schema.Types.Mixed, // Permite ObjectId o string
+        ref: 'User', // Si es un ObjectId, referencia el modelo User
+        default: 'Sin Director', // Si no tiene director, usar el string por defecto
     },
 }, {
     timestamps: true, // Agrega createdAt y updatedAt automáticamente

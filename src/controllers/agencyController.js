@@ -17,8 +17,8 @@ const createAgency = async (req, res) => {
     const { nombre, cod, coordinador, director } = req.body;
 
     // Verificar que se proporcionen datos necesarios
-    if (!nombre || !cod || !coordinador || !director) {
-        return res.status(400).json({ message: "Nombre y dirección son requeridos." });
+    if (!nombre || !cod || !coordinador) {
+        return res.status(400).json({ message: "Completa todos los datos son requeridos." });
     }
 
     try {
@@ -33,7 +33,7 @@ const createAgency = async (req, res) => {
         }
 
         const lastAgency = await Agency.findOne().sort({ item: -1 });
-        const nextItem = lastUser ? lastAgency.item + 1 : 1;
+        const nextItem = lastAgency ? lastAgency.item + 1 : 1;
 
         // Crear una nueva agencia
         const newAgency = new Agency({
